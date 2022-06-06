@@ -1,0 +1,1532 @@
+﻿Log file open, 06/06/22 09:31:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: INSECTE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.874725
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogLuminAPIImpl: Warning: MLSDK not found.  This likely means the MLSDK environment variable is not set.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line:  -EpicPortal -epicusername=Slash7788_ -epicuserid=5f031519f14a417b956acec6663587a2 -epiclocale=ru -epicsandboxid=ue
+LogInit: Base Directory: D:/Unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.06-04.31.26:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.06-04.31.26:357][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.06-04.31.26:357][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.06-04.31.26:395][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.06-04.31.26:395][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.06-04.31.26:396][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.06-04.31.26:397][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.06-04.31.26:397][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.06-04.31.26:397][  0]LogHAL: Display: Platform has ~ 16 GB [17009004544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.06-04.31.26:397][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.06-04.31.26:397][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.06-04.31.26:397][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.06-04.31.26:398][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.06-04.31.26:398][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.06-04.31.26:399][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.06-04.31.26:399][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.06-04.31.26:399][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.06-04.31.26:399][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Editor.ini]
+[2022.06.06-04.31.26:399][  0]LogInit: Computer: LAPTOP-OQ1M63MF
+[2022.06.06-04.31.26:399][  0]LogInit: User: vikto
+[2022.06.06-04.31.26:399][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.06-04.31.26:399][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.06-04.31.26:399][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.06.06-04.31.26:399][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.06-04.31.26:399][  0]LogMemory: Process Physical Memory: 136.69 MB used, 136.69 MB peak
+[2022.06.06-04.31.26:399][  0]LogMemory: Process Virtual Memory: 119.06 MB used, 119.06 MB peak
+[2022.06.06-04.31.26:399][  0]LogMemory: Physical Memory: 11633.03 MB used,  4588.02 MB free, 16221.05 MB total
+[2022.06.06-04.31.26:399][  0]LogMemory: Virtual Memory: 134213432.00 MB used,  4297.70 MB free, 134217728.00 MB total
+[2022.06.06-04.31.26:402][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.06-04.31.26:474][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.06-04.31.26:475][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.06-04.31.26:475][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.06.06-04.31.26:484][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.06.06-04.31.26:485][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.06.06-04.31.26:485][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.06.06-04.31.26:485][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.06.06-04.31.26:485][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.06.06-04.31.26:485][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.06.06-04.31.26:486][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.06.06-04.31.26:486][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.06.06-04.31.26:488][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.06-04.31.26:507][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.06-04.31.26:564][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.06-04.31.26:564][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.06-04.31.26:860][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.06-04.31.26:860][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.06-04.31.26:860][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.06-04.31.26:860][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.06-04.31.26:980][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2022.06.06-04.31.26:980][  0]LogD3D11RHI:       3962/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.06-04.31.27:010][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.06.06-04.31.27:010][  0]LogD3D11RHI:       128/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.06.06-04.31.27:013][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.06-04.31.27:013][  0]LogD3D11RHI:       0/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.06-04.31.27:013][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.06-04.31.27:024][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.06-04.31.27:024][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.06-04.31.27:024][  0]LogWindows: EnumDisplayDevices:
+[2022.06.06-04.31.27:024][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2022.06.06-04.31.27:024][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.06-04.31.27:025][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.06-04.31.27:025][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2022.06.06-04.31.27:026][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.06.06-04.31.27:026][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.06.06-04.31.27:026][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2022.06.06-04.31.27:026][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2022.06.06-04.31.27:026][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.06.06-04.31.27:094][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.06-04.31.27:094][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.06-04.31.27:094][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.06-04.31.27:110][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.06-04.31.27:112][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.06-04.31.27:615][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.06-04.31.27:642][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.06-04.31.27:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.06-04.31.27:684][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.06-04.31.27:699][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.06-04.31.27:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.06-04.31.27:724][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.06-04.31.27:737][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.06-04.31.27:749][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.06-04.31.27:763][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.06-04.31.27:776][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.06-04.31.27:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.06-04.31.27:811][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.06-04.31.27:828][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.06-04.31.27:844][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.06-04.31.27:866][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.06-04.31.27:885][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.06-04.31.27:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.06-04.31.27:910][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.06-04.31.27:927][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.06-04.31.27:948][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.06-04.31.27:971][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.06-04.31.27:990][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.06-04.31.27:990][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.06-04.31.28:014][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.06-04.31.28:219][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.06-04.31.28:219][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../Projects/INSECTE/INSECTE/INSECTE/Intermediate/Shaders/WorkingDirectory/23944/).
+[2022.06.06-04.31.28:219][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vikto/AppData/Local/Temp/UnrealShaderWorkingDir/D2CC987749D42773573F57A52F00CC4A/'.
+[2022.06.06-04.31.28:219][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.06-04.31.28:220][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.06-04.31.28:988][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.06-04.31.29:047][  0]LogDerivedDataCache: Loaded boot cache 0.06s 80MB C:/Users/vikto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.06-04.31.29:047][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vikto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.06-04.31.29:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/INSECTE/INSECTE/INSECTE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.06-04.31.29:047][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.06-04.31.29:047][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/INSECTE/INSECTE/INSECTE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.06-04.31.29:047][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.06-04.31.29:058][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.06-04.31.29:058][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.06-04.31.29:058][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.06-04.31.29:072][  0]LogDerivedDataCache: Speed tests for C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.06-04.31.29:072][  0]LogDerivedDataCache: Display: Performance to C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.10ms. RandomReadSpeed=849.57MBs, RandomWriteSpeed=84.76MBs. Assigned SpeedClass 'Local'
+[2022.06.06-04.31.29:073][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.06-04.31.29:073][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.06-04.31.29:073][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.06-04.31.29:130][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.06-04.31.29:130][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.06-04.31.29:164][  0]LogAssetRegistry: FAssetRegistry took 0.0034 seconds to start up
+[2022.06.06-04.31.29:568][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.06-04.31.29:569][  0]LogInit: Active device profile: [000001A0DE41F700][000001A0DB2B9BC0 49] Windows
+[2022.06.06-04.31.29:569][  0]LogInit: Profiles: [000001A0DE41F700][000001A0DB2B9BC0 49] Windows, [000001A0DE3F4A00][000001A0DB2C1D40 49] WindowsNoEditor, [000001A0DE41CB00][000001A0DB2C4200 49] WindowsServer, [000001A0DE3F7000][000001A0DB2C8380 49] WindowsClient, [000001A0DE41EF00][000001A0DB2CC500 49] IOS, [000001A0DE3F5300][000001A0DC460680 49] iPadAir, [000001A0DE41D200][000001A0DC464800 49] iPadAir2, [000001A0DE3B0A00][000001A0DC472AC0 49] IPadPro, [000001A0DE3B0B00][000001A0DC468B00 49] iPadAir3, [000001A0DE41EA00][000001A0DC47CC80 49] iPadAir4, [000001A0DE3B3900][000001A0DC480E00 49] iPadMini2, [000001A0DE41D600][000001A0DC484F80 49] iPadMini3, [000001A0DE3B1F00][000001A0DC489100 49] iPadMini4, [000001A0DE41FB00][000001A0DC48D280 49] iPadMini5, [000001A0DE3F4600][000001A0DC495540 49] iPhone6, [000001A0DE3F5C00][000001A0DC491580 49] iPodTouch6, [000001A0DE3B3200][000001A0DC4997C0 49] iPhone7, [000001A0DE39BF00][000001A0DB2BD800 49] iPodTouch7, [000001A0DE3F7900][000001A0DC49D940 49] iPhone5S, [000001A0DE399000][000001A0DC4A5AC0 49] iPhone6Plus, [000001A0DE3F5000][000001A0DC4A9C40 49] iPhone6S, [000001A0DE39AB00][000001A0DC4AC100 49] iPhone6SPlus, [000001A0DE3F4400][000001A0DC4B0280 49] iPhone7Plus, [000001A0DE399700][000001A0DC4B4400 49] iPhoneSE, [000001A0DE3F7C00][000001A0DC4B8580 49] iPhone8, [000001A0DE39BB00][000001A0DDC0C700 49] iPhone8Plus, [000001A0DE3F5D00][000001A0DDC10880 49] iPhoneX, [000001A0DE398A00][000001A0DDC14A00 49] iPhoneXS, [000001A0DE3F7400][000001A0DDC18B80 49] iPhoneXSMax, [000001A0DE39AE00][000001A0DDC1CD00 49] iPhoneXR, [000001A0DE3F6900][000001A0DDC20E80 49] iPhone11, [000001A0DE39B700][000001A0DDC25000 49] iPhone11Pro, [000001A0DE3F7100][000001A0DDC29180 49] iPhone11ProMax, [000001A0DE39BE00][000001A0DDC2D300 49] iPhoneSE2, [000001A0DE3F4D00][000001A0DDC31480 49] iPhone12Mini, [000001A0DE398800][000001A0DDC35600 49] iPhone12, [000001A0DE3F5700][000001A0DC4A1740 49] iPhone12Pro, [000001A0DE39A300][000001A0DDC39880 49] iPhone12ProMax, [000001A0DE3F4800][000001A0DDC3D9C0 49] iPadPro105, [000001A0DE39B000][000001A0DDC45B40 49] iPadPro129, [000001A0DE3F7D00][000001A0DDC49CC0 49] iPadPro97, [000001A0DE39A500][000001A0DDC4C180 49] iPadPro2_129, [000001A0DE3F5200][000001A0DDC50300 49] iPad5, [000001A0DE398C00][000001A0DDC54480 49] iPad6, [000001A0DE3F5B00][000001A0DDC58600 49] iPad7, [000001A0DE39BC00][000001A0DDC5C780 49] iPad8, [000001A0DE3F5500][000001A0DDC60900 49] iPadPro11, [000001A0DE39B100][000001A0DDC64A80 49] iPadPro2_11, [000001A0DE3F6600][000001A0DDC68C00 49] iPadPro3_129, [000001A0DE399F00][000001A0DDC6CD80 49] iPadPro4_129, [000001A0DE3F4200][000001A0DC518F00 49] AppleTV, [000001A0DE39B600][000001A0DC51D080 49] AppleTV4K, [000001A0DE3F4C00][000001A0DC521200 49] TVOS, [000001A0DE39AA00][000001A0DC525380 49] Mac, [000001A0DE3F5600][000001A0DC529500 49] MacClient, [000001A0DE39B900][000001A0DC52D680 49] MacNoEditor, [000001A0DE3F4B00][000001A0DDC417C0 49] MacServer, [000001A0DE39A900][000001A0DC531900 49] Linux, [000001A0DE3F6A00][000001A0DC535A40 49] LinuxAArch64, [000001A0DE398700][000001A0DC539B80 49] LinuxNoEditor, [000001A0DE3F7500][000001A0DC541D00 49] LinuxAArch64NoEditor, [000001A0DE398B00][000001A0DC5441C0 49] LinuxClient, [000001A0DE3F6500][000001A0DC548340 49] LinuxAArch64Client, [000001A0DE399500][000001A0DC54C4C0 49] LinuxServer, [000001A0DE3F4E00][000001A0DC550640 49] LinuxAArch64Server, [000001A0DE474700][000001A0DC5547C0 49] Android, [000001A0DE3B0E00][000001A0DC558940 49] Android_Low, [000001A0DE474100][000001A0DC55CAC0 49] Android_Mid, [000001A0DE3B2600][000001A0DC560C40 49] Android_High, [000001A0DE474500][000001A0DC564DC0 49] Android_Default, [000001A0DE3B3000][000001A0DC568F40 49] Android_Adreno4xx, [000001A0DE475F00][000001A0DC56D0C0 49] Android_Adreno5xx_Low, [000001A0DE3B1500][000001A0DC571240 49] Android_Adreno5xx, [000001A0DE475B00][000001A0DC5753C0 49] Android_Adreno6xx, [000001A0DE3B1800][000001A0DC579540 49] Android_Adreno6xx_Vulkan, [000001A0DE474C00][000001A0DC57D6C0 49] Android_Mali_T6xx, [000001A0DE3B2B00][000001A0DC53D800 49] Android_Mali_T7xx, [000001A0DE474A00][000001A0DC581940 49] Android_Mali_T8xx, [000001A0DE3B1100][000001A0DC70BA80 49] Android_Mali_G71, [000001A0DE475800][000001A0DC70FBC0 49] Android_Mali_G72, [000001A0DE3B3300][000001A0DC717D40 49] Android_Mali_G72_Vulkan, [000001A0DE474800][000001A0DC71A200 49] Android_Mali_G76, [000001A0DE39B400][000001A0DC71E380 49] Android_Mali_G76_Vulkan, [000001A0DE3F5400][000001A0DC722500 49] Android_Mali_G77, [000001A0DE39A600][000001A0DC726680 49] Android_Mali_G77_Vulkan, [000001A0DE3F4900][000001A0DC72A800 49] Android_Vulkan_SM5, [000001A0DE39AF00][000001A0DC72E980 49] Android_PowerVR_G6xxx, [000001A0DE3F6D00][000001A0DC732B00 49] Android_PowerVR_GT7xxx, [000001A0DE399400][000001A0DC736C80 49] Android_PowerVR_GE8xxx, [000001A0DE3F6000][000001A0DC73AE00 49] Android_PowerVR_GM9xxx, [000001A0DE398D00][000001A0DC73EF80 49] Android_PowerVR_GM9xxx_Vulkan, [000001A0DE3F6F00][000001A0DC743100 49] Android_TegraK1, [000001A0DE399900][000001A0DC747280 49] Android_Unknown_Vulkan, [000001A0DE3F5800][000001A0DC74B400 49] Lumin, [000001A0DE39BA00][000001A0DC74F580 49] Lumin_Desktop, [000001A0DE3F6B00][000001A0DC753700 49] HoloLens, 
+[2022.06.06-04.31.29:855][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.06-04.31.29:855][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.06-04.31.29:855][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.06-04.31.29:855][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.06-04.31.29:855][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.06-04.31.29:895][  0]LogNetVersion: INSECTE 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3626827506)
+[2022.06.06-04.31.30:645][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.06-04.31.30:950][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.303240 seconds
+[2022.06.06-04.31.30:961][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.06-04.31.30:961][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.06-04.31.30:961][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.06-04.31.31:802][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.06-04.31.31:968][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.06-04.31.32:427][  0]SourceControl: Source control is disabled
+[2022.06.06-04.31.32:427][  0]SourceControl: Source control is disabled
+[2022.06.06-04.31.32:434][  0]SourceControl: Source control is disabled
+[2022.06.06-04.31.32:456][  0]SourceControl: Source control is disabled
+[2022.06.06-04.31.32:461][  0]SourceControl: Source control is disabled
+[2022.06.06-04.31.32:473][  0]LogUProjectInfo: Found projects:
+[2022.06.06-04.31.32:815][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.06-04.31.32:856][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.06-04.31.32:856][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.06-04.31.33:077][  0]LogOcInput: OculusInput pre-init called
+[2022.06.06-04.31.33:107][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.06-04.31.33:108][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.06-04.31.33:125][  0]LogCollectionManager: Loaded 0 collections in 0.001334 seconds
+[2022.06.06-04.31.33:295][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Collections/' took 0.00s
+[2022.06.06-04.31.33:295][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Content/Developers/vikto/Collections/' took 0.00s
+[2022.06.06-04.31.33:295][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Content/Collections/' took 0.00s
+[2022.06.06-04.31.33:295][  0]LogEngine: Initializing Engine...
+[2022.06.06-04.31.33:302][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.06.06-04.31.33:302][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.06-04.31.33:303][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.06-04.31.33:442][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.06-04.31.33:463][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.06-04.31.33:474][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.06-04.31.33:488][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.06-04.31.33:488][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.06-04.31.33:488][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.06-04.31.33:488][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.06-04.31.33:488][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.06-04.31.33:488][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.06-04.31.33:488][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.06-04.31.33:488][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.06-04.31.33:488][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.06-04.31.33:488][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.06-04.31.33:489][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.06-04.31.33:489][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.06-04.31.33:518][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-04.31.33:518][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-04.31.33:554][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.06.06-04.31.33:557][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.06-04.31.33:559][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.06-04.31.33:560][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.06-04.31.33:560][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.06-04.31.33:561][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.06-04.31.33:561][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.06-04.31.33:561][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.06-04.31.33:562][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.06-04.31.33:562][  0]LogInit: FAudioDevice initialized.
+[2022.06.06-04.31.33:567][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.06-04.31.33:567][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.06-04.31.33:620][  0]LogDerivedDataCache: Saved boot cache 0.05s 80MB C:/Users/vikto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.06-04.31.33:620][  0]LogInit: Texture streaming: Enabled
+[2022.06.06-04.31.33:652][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.06-04.31.33:668][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.06-04.31.33:668][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.06-04.31.33:688][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.06-04.31.33:719][  0]LogInit: Transaction tracking system initialized
+[2022.06.06-04.31.33:776][  0]BlueprintLog: New page: Editor Load
+[2022.06.06-04.31.34:014][  0]LocalizationService: Localization service is disabled
+[2022.06.06-04.31.34:080][  0]TimingProfiler: Initialize
+[2022.06.06-04.31.34:080][  0]TimingProfiler: OnSessionChanged
+[2022.06.06-04.31.34:080][  0]LoadingProfiler: Initialize
+[2022.06.06-04.31.34:081][  0]LoadingProfiler: OnSessionChanged
+[2022.06.06-04.31.34:081][  0]NetworkingProfiler: Initialize
+[2022.06.06-04.31.34:081][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.06-04.31.34:081][  0]MemoryProfiler: Initialize
+[2022.06.06-04.31.34:081][  0]MemoryProfiler: OnSessionChanged
+[2022.06.06-04.31.34:991][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.06-04.31.34:991][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.06-04.31.35:005][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Content/' took 0.00s
+[2022.06.06-04.31.35:708][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.06-04.31.35:730][  0]SourceControl: Source control is disabled
+[2022.06.06-04.31.35:730][  0]LogUnrealEdMisc: Loading editor; pre map load, took 11.833
+[2022.06.06-04.31.35:741][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Unreal/UE_4.26/FeaturePacks/StarterContent.upack)
+[2022.06.06-04.31.35:742][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.06-04.31.35:742][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.35:742][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.06-04.31.35:752][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2022.06.06-04.31.35:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Floor_400x400.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Floor_400x400.uasset"
+[2022.06.06-04.31.35:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Pillar_50x500.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Pillar_50x500.uasset"
+[2022.06.06-04.31.35:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/SM_AssetPlatform.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/SM_AssetPlatform.uasset"
+[2022.06.06-04.31.35:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x200.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_400x200.uasset"
+[2022.06.06-04.31.35:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x300.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_400x300.uasset"
+[2022.06.06-04.31.35:854][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_400x400.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_400x400.uasset"
+[2022.06.06-04.31.35:860][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_500x500.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_500x500.uasset"
+[2022.06.06-04.31.35:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_Door_400x300.uasset"
+[2022.06.06-04.31.35:886][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_Door_400x400.uasset"
+[2022.06.06-04.31.35:896][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_Window_400x300.uasset"
+[2022.06.06-04.31.35:909][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Wall_Window_400x400.uasset"
+[2022.06.06-04.31.35:942][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Collapse01.uasset"
+[2022.06.06-04.31.35:957][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse02.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Collapse02.uasset"
+[2022.06.06-04.31.35:964][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Collapse_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Collapse_Cue.uasset"
+[2022.06.06-04.31.35:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Explosion01.uasset"
+[2022.06.06-04.31.36:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion02.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Explosion02.uasset"
+[2022.06.06-04.31.36:006][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Explosion_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Explosion_Cue.uasset"
+[2022.06.06-04.31.36:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Fire01.uasset"
+[2022.06.06-04.31.36:054][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire01_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Fire01_Cue.uasset"
+[2022.06.06-04.31.36:092][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Fire_Sparks01.uasset"
+[2022.06.06-04.31.36:103][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2022.06.06-04.31.36:119][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Light01.uasset"
+[2022.06.06-04.31.36:132][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light01_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Light01_Cue.uasset"
+[2022.06.06-04.31.36:150][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Light02.uasset"
+[2022.06.06-04.31.36:159][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Light02_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Light02_Cue.uasset"
+[2022.06.06-04.31.36:181][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Smoke01.uasset"
+[2022.06.06-04.31.36:188][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Smoke01_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Smoke01_Cue.uasset"
+[2022.06.06-04.31.36:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Starter_Background_Cue.uasset"
+[2022.06.06-04.31.36:275][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Birds01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Starter_Birds01.uasset"
+[2022.06.06-04.31.36:463][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Starter_Music01.uasset"
+[2022.06.06-04.31.36:472][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Starter_Music_Cue.uasset"
+[2022.06.06-04.31.36:521][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind05.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Starter_Wind05.uasset"
+[2022.06.06-04.31.36:585][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Starter_Wind06.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Starter_Wind06.uasset"
+[2022.06.06-04.31.36:602][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Steam01.uasset"
+[2022.06.06-04.31.36:611][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Audio/Steam01_Cue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Audio/Steam01_Cue.uasset"
+[2022.06.06-04.31.36:638][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2022.06.06-04.31.36:644][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2022.06.06-04.31.36:652][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2022.06.06-04.31.36:660][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2022.06.06-04.31.36:673][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2022.06.06-04.31.36:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Blueprint_Effect_Steam.uasset"
+[2022.06.06-04.31.36:690][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2022.06.06-04.31.36:710][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/BP_LightStudio.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/BP_LightStudio.uasset"
+[2022.06.06-04.31.36:743][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/FogBrightnessLUT.uasset"
+[2022.06.06-04.31.36:751][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/M_LightStage_Arrows.uasset"
+[2022.06.06-04.31.36:759][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Black.uasset"
+[2022.06.06-04.31.36:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_HDRI.uasset"
+[2022.06.06-04.31.36:783][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/M_LightStage_Skybox_Master.uasset"
+[2022.06.06-04.31.36:802][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/Skybox.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/Skybox.uasset"
+[2022.06.06-04.31.36:817][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/SM_Arrows.uasset"
+[2022.06.06-04.31.36:824][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Blueprints/Assets/SunlightColorLUT.uasset"
+[2022.06.06-04.31.38:895][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+[2022.06.06-04.31.38:918][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting.umap" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Maps/Advanced_Lighting.umap"
+[2022.06.06-04.31.38:947][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Maps/Advanced_Lighting_BuiltData.uasset"
+[2022.06.06-04.31.38:972][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default.umap" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Maps/Minimal_Default.umap"
+[2022.06.06-04.31.39:052][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2022.06.06-04.31.39:077][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap.umap" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Maps/StarterMap.umap"
+[2022.06.06-04.31.39:500][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+[2022.06.06-04.31.39:522][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_AssetPlatform.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_AssetPlatform.uasset"
+[2022.06.06-04.31.39:536][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Floor.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Basic_Floor.uasset"
+[2022.06.06-04.31.39:543][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Basic_Wall.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Basic_Wall.uasset"
+[2022.06.06-04.31.39:552][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2022.06.06-04.31.39:560][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Brick_Clay_New.uasset"
+[2022.06.06-04.31.39:570][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2022.06.06-04.31.39:580][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2022.06.06-04.31.39:589][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2022.06.06-04.31.39:596][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2022.06.06-04.31.39:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2022.06.06-04.31.39:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2022.06.06-04.31.39:632][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2022.06.06-04.31.39:640][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_ColorGrid_LowSpec.uasset"
+[2022.06.06-04.31.39:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Concrete_Grime.uasset"
+[2022.06.06-04.31.39:657][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Concrete_Panels.uasset"
+[2022.06.06-04.31.39:670][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Concrete_Poured.uasset"
+[2022.06.06-04.31.39:680][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Concrete_Tiles.uasset"
+[2022.06.06-04.31.39:688][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Glass.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Glass.uasset"
+[2022.06.06-04.31.39:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Grass.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Ground_Grass.uasset"
+[2022.06.06-04.31.39:721][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Ground_Gravel.uasset"
+[2022.06.06-04.31.39:740][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Ground_Moss.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Ground_Moss.uasset"
+[2022.06.06-04.31.39:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2022.06.06-04.31.39:766][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2022.06.06-04.31.39:774][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Metal_Chrome.uasset"
+[2022.06.06-04.31.39:786][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Copper.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Metal_Copper.uasset"
+[2022.06.06-04.31.39:800][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Gold.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Metal_Gold.uasset"
+[2022.06.06-04.31.39:818][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Rust.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Metal_Rust.uasset"
+[2022.06.06-04.31.39:831][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Metal_Steel.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Metal_Steel.uasset"
+[2022.06.06-04.31.39:843][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Rock_Basalt.uasset"
+[2022.06.06-04.31.39:856][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2022.06.06-04.31.39:868][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Rock_Sandstone.uasset"
+[2022.06.06-04.31.39:878][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Rock_Slate.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Rock_Slate.uasset"
+[2022.06.06-04.31.39:890][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2022.06.06-04.31.39:900][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2022.06.06-04.31.39:912][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2022.06.06-04.31.39:919][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Tech_Panel.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Tech_Panel.uasset"
+[2022.06.06-04.31.39:926][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Lake.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Water_Lake.uasset"
+[2022.06.06-04.31.39:941][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Water_Ocean.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Water_Ocean.uasset"
+[2022.06.06-04.31.39:959][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2022.06.06-04.31.39:971][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2022.06.06-04.31.39:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Oak.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Wood_Oak.uasset"
+[2022.06.06-04.31.40:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Pine.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Wood_Pine.uasset"
+[2022.06.06-04.31.40:010][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Materials/M_Wood_Walnut.uasset"
+[2022.06.06-04.31.40:035][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/P_Ambient_Dust.uasset"
+[2022.06.06-04.31.40:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Explosion.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/P_Explosion.uasset"
+[2022.06.06-04.31.40:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Fire.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/P_Fire.uasset"
+[2022.06.06-04.31.40:066][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Smoke.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/P_Smoke.uasset"
+[2022.06.06-04.31.40:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Sparks.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/P_Sparks.uasset"
+[2022.06.06-04.31.40:087][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/P_Steam_Lit.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/P_Steam_Lit.uasset"
+[2022.06.06-04.31.40:113][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Burst.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_Burst.uasset"
+[2022.06.06-04.31.40:120][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2022.06.06-04.31.40:134][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2022.06.06-04.31.40:140][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2022.06.06-04.31.40:154][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/m_flare_01.uasset"
+[2022.06.06-04.31.40:160][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_Heat_Distortion.uasset"
+[2022.06.06-04.31.40:171][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2022.06.06-04.31.40:178][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2022.06.06-04.31.40:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2022.06.06-04.31.40:195][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Particles/Materials/M_Spark.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Particles/Materials/M_Spark.uasset"
+[2022.06.06-04.31.40:221][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/MaterialSphere.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/MaterialSphere.uasset"
+[2022.06.06-04.31.40:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Bush.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Bush.uasset"
+[2022.06.06-04.31.40:241][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Chair.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Chair.uasset"
+[2022.06.06-04.31.40:250][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_CornerFrame.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_CornerFrame.uasset"
+[2022.06.06-04.31.40:261][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Couch.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Couch.uasset"
+[2022.06.06-04.31.40:278][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Door.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Door.uasset"
+[2022.06.06-04.31.40:289][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_DoorFrame.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_DoorFrame.uasset"
+[2022.06.06-04.31.40:296][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_GlassWindow.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_GlassWindow.uasset"
+[2022.06.06-04.31.40:317][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2022.06.06-04.31.40:331][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Lamp_Wall.uasset"
+[2022.06.06-04.31.40:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2022.06.06-04.31.40:411][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_PillarFrame.uasset"
+[2022.06.06-04.31.40:423][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_PillarFrame300.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_PillarFrame300.uasset"
+[2022.06.06-04.31.40:433][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Rock.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Rock.uasset"
+[2022.06.06-04.31.40:440][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Shelf.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Shelf.uasset"
+[2022.06.06-04.31.40:448][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Stairs.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Stairs.uasset"
+[2022.06.06-04.31.40:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_Statue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_Statue.uasset"
+[2022.06.06-04.31.40:496][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_TableRound.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_TableRound.uasset"
+[2022.06.06-04.31.40:502][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/SM_WindowFrame.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/SM_WindowFrame.uasset"
+[2022.06.06-04.31.40:527][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Bush.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Bush.uasset"
+[2022.06.06-04.31.40:534][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Chair.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Chair.uasset"
+[2022.06.06-04.31.40:546][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Door.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Door.uasset"
+[2022.06.06-04.31.40:553][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Frame.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Frame.uasset"
+[2022.06.06-04.31.40:562][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Lamp.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Lamp.uasset"
+[2022.06.06-04.31.40:575][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2022.06.06-04.31.40:582][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2022.06.06-04.31.40:593][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Rock.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Rock.uasset"
+[2022.06.06-04.31.40:601][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Shelf.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Shelf.uasset"
+[2022.06.06-04.31.40:615][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_Statue.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_Statue.uasset"
+[2022.06.06-04.31.40:624][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_StatueGlass.uasset"
+[2022.06.06-04.31.40:631][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Props/Materials/M_TableRound.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Props/Materials/M_TableRound.uasset"
+[2022.06.06-04.31.40:661][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cone.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Cone.uasset"
+[2022.06.06-04.31.40:668][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cube.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Cube.uasset"
+[2022.06.06-04.31.40:679][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Cylinder.uasset"
+[2022.06.06-04.31.40:694][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2022.06.06-04.31.40:701][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Pipe.uasset"
+[2022.06.06-04.31.40:715][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Pipe_180.uasset"
+[2022.06.06-04.31.40:730][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Pipe_90.uasset"
+[2022.06.06-04.31.40:738][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Plane.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Plane.uasset"
+[2022.06.06-04.31.40:754][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2022.06.06-04.31.40:770][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Sphere.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Sphere.uasset"
+[2022.06.06-04.31.40:793][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Torus.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Torus.uasset"
+[2022.06.06-04.31.40:804][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Trim.uasset"
+[2022.06.06-04.31.40:811][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2022.06.06-04.31.40:822][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2022.06.06-04.31.40:834][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_TriPyramid.uasset"
+[2022.06.06-04.31.40:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Tube.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Tube.uasset"
+[2022.06.06-04.31.40:852][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Wedge_A.uasset"
+[2022.06.06-04.31.40:862][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_Wedge_B.uasset"
+[2022.06.06-04.31.40:873][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Shapes/Shape_WideCapsule.uasset"
+[2022.06.06-04.31.41:059][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2022.06.06-04.31.41:244][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2022.06.06-04.31.41:424][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2022.06.06-04.31.41:555][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2022.06.06-04.31.41:722][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2022.06.06-04.31.41:877][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2022.06.06-04.31.42:080][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2022.06.06-04.31.42:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2022.06.06-04.31.42:501][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2022.06.06-04.31.42:634][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2022.06.06-04.31.42:799][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2022.06.06-04.31.43:187][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2022.06.06-04.31.43:353][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2022.06.06-04.31.43:364][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Burst_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Burst_M.uasset"
+[2022.06.06-04.31.43:379][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Bush_D.uasset"
+[2022.06.06-04.31.43:397][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Bush_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Bush_N.uasset"
+[2022.06.06-04.31.43:414][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2022.06.06-04.31.43:429][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2022.06.06-04.31.43:447][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Chair_M.uasset"
+[2022.06.06-04.31.43:497][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Chair_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Chair_N.uasset"
+[2022.06.06-04.31.43:508][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Checker_Noise_M.uasset"
+[2022.06.06-04.31.43:755][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2022.06.06-04.31.43:789][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2022.06.06-04.31.43:995][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2022.06.06-04.31.44:055][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2022.06.06-04.31.44:107][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2022.06.06-04.31.44:231][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2022.06.06-04.31.44:342][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2022.06.06-04.31.44:512][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2022.06.06-04.31.45:359][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2022.06.06-04.31.45:517][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2022.06.06-04.31.45:651][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2022.06.06-04.31.45:855][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2022.06.06-04.31.45:999][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2022.06.06-04.31.46:095][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2022.06.06-04.31.46:203][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2022.06.06-04.31.46:336][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2022.06.06-04.31.46:344][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2022.06.06-04.31.46:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2022.06.06-04.31.46:426][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Door_M.uasset"
+[2022.06.06-04.31.46:451][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Door_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Door_N.uasset"
+[2022.06.06-04.31.46:458][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Dust_Particle_D.uasset"
+[2022.06.06-04.31.46:518][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Explosion_SubUV.uasset"
+[2022.06.06-04.31.46:538][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Fire_SubUV.uasset"
+[2022.06.06-04.31.46:554][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2022.06.06-04.31.46:576][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Frame_M.uasset"
+[2022.06.06-04.31.46:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Frame_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Frame_N.uasset"
+[2022.06.06-04.31.46:608][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Gradinet_01.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Gradinet_01.uasset"
+[2022.06.06-04.31.46:844][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Ground_Grass_D.uasset"
+[2022.06.06-04.31.47:046][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Ground_Grass_N.uasset"
+[2022.06.06-04.31.47:251][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2022.06.06-04.31.47:382][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2022.06.06-04.31.47:619][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_ground_Moss_D.uasset"
+[2022.06.06-04.31.47:779][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Ground_Moss_N.uasset"
+[2022.06.06-04.31.47:805][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Lamp_M.uasset"
+[2022.06.06-04.31.47:851][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Lamp_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Lamp_N.uasset"
+[2022.06.06-04.31.48:076][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_MacroVariation.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_MacroVariation.uasset"
+[2022.06.06-04.31.48:277][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2022.06.06-04.31.48:486][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Copper_D.uasset"
+[2022.06.06-04.31.48:686][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Gold_D.uasset"
+[2022.06.06-04.31.48:741][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Gold_N.uasset"
+[2022.06.06-04.31.48:921][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Rust_D.uasset"
+[2022.06.06-04.31.49:068][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Rust_N.uasset"
+[2022.06.06-04.31.49:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Steel_D.uasset"
+[2022.06.06-04.31.49:223][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Metal_Steel_N.uasset"
+[2022.06.06-04.31.49:358][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2022.06.06-04.31.49:510][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2022.06.06-04.31.49:663][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2022.06.06-04.31.49:757][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2022.06.06-04.31.49:910][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2022.06.06-04.31.50:056][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2022.06.06-04.31.50:285][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Slate_D.uasset"
+[2022.06.06-04.31.50:437][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Slate_N.uasset"
+[2022.06.06-04.31.50:600][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2022.06.06-04.31.50:650][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_RockMesh_M.uasset"
+[2022.06.06-04.31.51:011][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_RockMesh_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_RockMesh_N.uasset"
+[2022.06.06-04.31.51:208][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Shelf_M.uasset"
+[2022.06.06-04.31.51:492][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Shelf_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Shelf_N.uasset"
+[2022.06.06-04.31.51:758][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Single_Tile_N.uasset"
+[2022.06.06-04.31.51:991][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Smoke_SubUV.uasset"
+[2022.06.06-04.31.52:005][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2022.06.06-04.31.52:016][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Spark_Core.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Spark_Core.uasset"
+[2022.06.06-04.31.52:030][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Statue_M.uasset"
+[2022.06.06-04.31.52:053][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Statue_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Statue_N.uasset"
+[2022.06.06-04.31.52:072][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_TableRound_M.uasset"
+[2022.06.06-04.31.52:112][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_TableRound_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_TableRound_N.uasset"
+[2022.06.06-04.31.52:125][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Tech_Dot_M.uasset"
+[2022.06.06-04.31.52:135][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Tech_Dot_N.uasset"
+[2022.06.06-04.31.52:151][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2022.06.06-04.31.52:174][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2022.06.06-04.31.52:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Tech_Panel_M.uasset"
+[2022.06.06-04.31.52:233][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Tech_Panel_N.uasset"
+[2022.06.06-04.31.52:276][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Water_M.uasset"
+[2022.06.06-04.31.52:315][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Water_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Water_N.uasset"
+[2022.06.06-04.31.52:395][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2022.06.06-04.31.52:476][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2022.06.06-04.31.52:541][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2022.06.06-04.31.52:656][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Oak_D.uasset"
+[2022.06.06-04.31.52:769][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Oak_N.uasset"
+[2022.06.06-04.31.52:928][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Pine_D.uasset"
+[2022.06.06-04.31.53:001][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Pine_N.uasset"
+[2022.06.06-04.31.53:117][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2022.06.06-04.31.53:200][  0]LogPackFactory: Copied "../../../Samples/StarterContent/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2022.06.06-04.31.53:219][  0]LogStaticMesh: Building static mesh Floor_400x400...
+[2022.06.06-04.31.53:223][  0]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.06.06-04.31.53:302][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2022.06.06-04.31.53:632][  0]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/StarterContent/Architecture/Floor_400x400" FILE="../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Floor_400x400.uasset" SILENT=true
+[2022.06.06-04.31.53:733][  0]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Floor_400x400C2631E0D4D09B0B39823E0AEAFBACF60.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/StarterContent/Architecture/Floor_400x400.uasset'
+[2022.06.06-04.31.53:744][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2022.06.06-04.31.53:749][  0]Cmd: MAP LOAD FILE="../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.06-04.31.53:750][  0]LightingResults: New page: Lighting Build
+[2022.06.06-04.31.53:751][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-04.31.53:751][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-04.31.53:751][  0]MapCheck: New page: Map Check
+[2022.06.06-04.31.53:751][  0]LightingResults: New page: Lighting Build
+[2022.06.06-04.31.53:757][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2022.06.06-04.31.54:061][  0]LogTexture: Display: Building textures: DeprecatedTextureC1866CFF4D79AD66933EBCAE7C741FC8 (BGRA8, 128X128)
+[2022.06.06-04.31.54:070][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'SideScrollerExampleMap'.
+[2022.06.06-04.31.54:071][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.06.06-04.31.54:110][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.06-04.31.54:117][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2022.06.06-04.31.54:118][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.06-04.31.54:118][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,235ms to complete.
+[2022.06.06-04.31.54:118][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 0.369
+[2022.06.06-04.31.54:120][  0]LogUnrealEdMisc: Total Editor Startup Time, took 30.223
+[2022.06.06-04.31.54:357][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.31.54:364][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.31.54:370][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.31.54:375][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.31.54:419][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0083 seconds. Added 3601 classes and 859 folders.
+[2022.06.06-04.31.54:430][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.06-04.31.54:432][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.06-04.31.54:432][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:432][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.06-04.31.54:432][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2022.06.06-04.31.54:433][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.06-04.31.54:433][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:433][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.06-04.31.54:433][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2022.06.06-04.31.54:433][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.06-04.31.54:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.06-04.31.54:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.06.06-04.31.54:434][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.06-04.31.54:434][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:434][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.06-04.31.54:434][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2022.06.06-04.31.54:435][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.06-04.31.54:435][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:435][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.06-04.31.54:435][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2022.06.06-04.31.54:436][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.06-04.31.54:436][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:436][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.06-04.31.54:436][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2022.06.06-04.31.54:437][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.06-04.31.54:437][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:437][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.06-04.31.54:437][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.06.06-04.31.54:438][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.06-04.31.54:438][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:438][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.06-04.31.54:438][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.06.06-04.31.54:439][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.06-04.31.54:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.06-04.31.54:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.06.06-04.31.54:439][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.06-04.31.54:439][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:439][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.06-04.31.54:439][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.06.06-04.31.54:440][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.06-04.31.54:440][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:440][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.06-04.31.54:440][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.06-04.31.54:441][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.06-04.31.54:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.06-04.31.54:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000030
+[2022.06.06-04.31.54:441][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.06-04.31.54:441][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:441][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.06-04.31.54:441][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.06-04.31.54:442][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.06-04.31.54:442][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:442][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.06-04.31.54:442][  0]LogPakFile: OnPakFileMounted2Time == 0.000032
+[2022.06.06-04.31.54:443][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.06-04.31.54:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.06-04.31.54:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.06.06-04.31.54:443][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.06-04.31.54:443][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:443][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.06-04.31.54:443][  0]LogPakFile: OnPakFileMounted2Time == 0.000035
+[2022.06.06-04.31.54:444][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.06-04.31.54:444][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:444][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.06-04.31.54:444][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.06.06-04.31.54:445][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.06-04.31.54:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.06-04.31.54:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.06-04.31.54:445][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.06-04.31.54:445][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:445][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.06-04.31.54:445][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.06-04.31.54:446][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.06-04.31.54:446][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:446][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.06-04.31.54:446][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.06.06-04.31.54:447][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.06-04.31.54:447][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:447][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.06-04.31.54:447][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.06-04.31.54:448][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.06-04.31.54:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.06-04.31.54:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000043
+[2022.06.06-04.31.54:448][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.06-04.31.54:448][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:448][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.06-04.31.54:448][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.06.06-04.31.54:449][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.06-04.31.54:449][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:449][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.06-04.31.54:449][  0]LogPakFile: OnPakFileMounted2Time == 0.000046
+[2022.06.06-04.31.54:450][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.06-04.31.54:450][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:450][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.06-04.31.54:450][  0]LogPakFile: OnPakFileMounted2Time == 0.000048
+[2022.06.06-04.31.54:450][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.06-04.31.54:451][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.06-04.31.54:451][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.06-04.31.54:451][  0]LogPakFile: OnPakFileMounted2Time == 0.000049
+[2022.06.06-04.31.54:496][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.06-04.31.54:498][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.06.06-04.31.54:781][  0]LogSlate: Took 0.000181 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.06-04.31.54:784][  0]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.06-04.31.54:794][  0]LogSlate: Took 0.001889 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.06-04.31.54:890][  0]LogRenderer: Reallocating scene render targets to support 992x568 Format 10 NumSamples 1 (Frame:1).
+[2022.06.06-04.31.54:963][  0]LogSlate: Took 0.000224 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.06-04.31.55:172][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.06-04.31.55:172][  0]LogLoad: (Engine Initialization) Total time: 31.27 seconds
+[2022.06.06-04.31.55:172][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.06-04.31.55:172][  0]LogInit: First time updating LLM stats...
+[2022.06.06-04.31.55:199][  0]AssetCheck: New page: Asset Save: Floor_400x400
+[2022.06.06-04.31.55:199][  0]LogContentValidation: Display: Validating StaticMesh /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2022.06.06-04.31.55:236][  0]LogAssetRegistry: Asset discovery search completed in 26.0736 seconds
+[2022.06.06-04.31.55:238][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.06.06-04.31.55:382][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.06-04.31.59:113][215]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.06-04.31.59:147][215]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2022.06.06-04.31.59:717][215]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/SideScrollerExampleMap7C09279548C8150560E66FA570BD4EC0.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2022.06.06-04.32.00:088][215]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/SideScrollerExampleMap_BuiltData8CEF93934131C7CB1FFDEF98407FBF02.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2022.06.06-04.32.00:106][215]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.06-04.32.00:106][215]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.SideScrollerExampleMap_BuiltData
+[2022.06.06-04.32.00:106][215]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap
+[2022.06.06-04.32.01:489][293]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.06-04.32.01:513][293]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.06-04.32.01:521][293]PIE: New page: PIE session: SideScrollerExampleMap (6 июн. 2022 г., 14:32:01)
+[2022.06.06-04.32.01:523][293]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.06.06-04.32.01:524][293]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.06.06-04.32.01:526][293]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.06.06-04.32.01:541][293]LogPlayLevel: PIE: StaticDuplicateObject took: (0.013898s)
+[2022.06.06-04.32.01:542][293]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.06.06-04.32.01:542][293]LogPlayLevel: PIE: World Init took: (0.001311s)
+[2022.06.06-04.32.01:543][293]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.016731s)
+[2022.06.06-04.32.01:551][293]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2022.06.06-04.32.01:553][293]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.06-04.32.01:554][293]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.06-04.32.01:554][293]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.06-04.32.01:554][293]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.06-04.32.01:563][293]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-04.32.01:563][293]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-04.32.01:579][293]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.06.06-04.32.01:579][293]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.06-04.32.01:579][293]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.06-04.32.01:579][293]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.06-04.32.01:579][293]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.06-04.32.01:580][293]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.06-04.32.01:580][293]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.06-04.32.01:592][293]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.06-04.32.01:593][293]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.06-04.32.01:593][293]LogInit: FAudioDevice initialized.
+[2022.06.06-04.32.01:593][293]LogAudio: Display: Audio Device (ID: 2) registered with world 'SideScrollerExampleMap'.
+[2022.06.06-04.32.01:611][293]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.06.06-04.32.01:621][293]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.06.06-09.32.01
+[2022.06.06-04.32.01:624][293]LogWorld: Bringing up level for play took: 0.005809
+[2022.06.06-04.32.01:626][293]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2022.06.06-04.32.01:650][293]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2022.06.06-04.32.01:654][293]PIE: Server logged in
+[2022.06.06-04.32.01:656][293]PIE: Play in editor total start time 0,156 seconds.
+[2022.06.06-04.33.10:658][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.33.10:658][388]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.06.06-04.33.10:659][388]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-04.33.10:660][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-04.33.10:668][388]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.06-04.33.10:671][388]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-04.33.10:676][388]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.33.10:677][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-04.33.10:678][388]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-04.33.10:696][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2022.06.06-04.33.10:728][389]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2022.06.06-04.33.19:575][908]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.06.06-04.33.19:907][908]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 126 classes and 0 folders.
+[2022.06.06-04.33.20:986][908]LogSlate: Took 0.000177 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.06-04.33.21:095][909]LogSlate: Took 0.004884 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.06-04.33.40:267][ 36]LogSlate: Window 'SideScrollerCharacter' being destroyed
+[2022.06.06-04.33.51:753][577]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.06-04.33.51:782][577]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.06-04.33.51:783][577]PIE: New page: PIE session: SideScrollerExampleMap (6 июн. 2022 г., 14:33:51)
+[2022.06.06-04.33.51:783][577]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.06.06-04.33.51:794][577]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011176s)
+[2022.06.06-04.33.51:796][577]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.06.06-04.33.51:797][577]LogPlayLevel: PIE: World Init took: (0.002649s)
+[2022.06.06-04.33.51:797][577]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.014081s)
+[2022.06.06-04.33.51:819][577]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.06.06-04.33.51:821][577]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.06-04.33.51:821][577]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.06-04.33.51:821][577]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.06-04.33.51:821][577]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.06-04.33.51:826][577]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-04.33.51:826][577]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-04.33.51:842][577]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.06.06-04.33.51:842][577]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.06-04.33.51:842][577]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.06-04.33.51:842][577]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.06-04.33.51:842][577]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.06-04.33.51:843][577]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.06-04.33.51:843][577]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.06-04.33.51:855][577]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.06-04.33.51:855][577]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.06-04.33.51:855][577]LogInit: FAudioDevice initialized.
+[2022.06.06-04.33.51:855][577]LogAudio: Display: Audio Device (ID: 3) registered with world 'SideScrollerExampleMap'.
+[2022.06.06-04.33.51:864][577]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.06.06-04.33.51:866][577]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.06.06-09.33.51
+[2022.06.06-04.33.51:866][577]LogWorld: Bringing up level for play took: 0.001550
+[2022.06.06-04.33.51:866][577]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2022.06.06-04.33.51:868][577]PIE: Server logged in
+[2022.06.06-04.33.51:869][577]PIE: Play in editor total start time 0,098 seconds.
+[2022.06.06-04.33.53:636][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.33.53:636][679]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.06.06-04.33.53:636][679]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-04.33.53:636][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-04.33.53:644][679]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.06-04.33.53:647][679]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-04.33.53:663][679]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.06-04.33.53:663][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-04.33.53:664][679]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-04.33.53:678][679]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.33.53:680][679]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2022.06.06-04.33.53:697][680]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2022.06.06-04.34.00:864][102]LogRenderer: Reallocating scene render targets to support 1144x892 Format 10 NumSamples 1 (Frame:1).
+[2022.06.06-04.34.13:422][838]BlueprintLog: New page: Compile SideScrollerCharacter
+[2022.06.06-04.34.13:431][838]LogUObjectGlobals: Warning: Guid referenced by CapsuleComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder is already used by CapsuleComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CollisionCylinder, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.06-04.34.13:432][838]LogUObjectGlobals: Warning: Guid referenced by ArrowComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.Arrow is already used by ArrowComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.Arrow, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.06-04.34.13:432][838]LogUObjectGlobals: Warning: Guid referenced by CharacterMovementComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CharMoveComp is already used by CharacterMovementComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CharMoveComp, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.06-04.34.13:432][838]LogUObjectGlobals: Warning: Guid referenced by SkeletalMeshComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CharacterMesh0 is already used by SkeletalMeshComponent /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.REINST_SideScrollerCharacter_C_0.CharacterMesh0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.06-04.34.13:467][838]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2022.06.06-04.34.15:804][972]LogTemp: Repeating last play command: Selected Viewport
+[2022.06.06-04.34.15:827][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.06.06-04.34.15:827][972]PIE: New page: PIE session: SideScrollerExampleMap (6 июн. 2022 г., 14:34:15)
+[2022.06.06-04.34.15:828][972]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.06.06-04.34.15:840][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012008s)
+[2022.06.06-04.34.15:841][972]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2022.06.06-04.34.15:842][972]LogPlayLevel: PIE: World Init took: (0.001550s)
+[2022.06.06-04.34.15:842][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.013826s)
+[2022.06.06-04.34.15:863][972]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2022.06.06-04.34.15:864][972]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2022.06.06-04.34.15:864][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.06-04.34.15:864][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.06-04.34.15:864][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.06-04.34.15:864][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.06-04.34.15:865][972]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.06-04.34.15:865][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.06-04.34.15:865][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.06-04.34.15:865][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.06-04.34.15:865][972]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.06-04.34.15:865][972]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.06-04.34.15:870][972]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.06-04.34.15:870][972]LogAudioMixer: Display: 1: FrontRight
+[2022.06.06-04.34.15:889][972]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.06.06-04.34.15:889][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.06-04.34.15:889][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.06-04.34.15:890][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.06-04.34.15:890][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.06-04.34.15:890][972]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.06-04.34.15:890][972]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.06-04.34.15:902][972]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.06-04.34.15:902][972]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.06-04.34.15:902][972]LogInit: FAudioDevice initialized.
+[2022.06.06-04.34.15:902][972]LogAudio: Display: Audio Device (ID: 4) registered with world 'SideScrollerExampleMap'.
+[2022.06.06-04.34.15:912][972]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2022.06.06-04.34.15:914][972]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2022.06.06-09.34.15
+[2022.06.06-04.34.15:914][972]LogWorld: Bringing up level for play took: 0.001505
+[2022.06.06-04.34.15:914][972]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.06.06-04.34.15:917][972]PIE: Server logged in
+[2022.06.06-04.34.15:918][972]PIE: Play in editor total start time 0,099 seconds.
+[2022.06.06-04.34.35:426][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.34.35:426][139]LogWorld: BeginTearingDown for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2022.06.06-04.34.35:426][139]LogWorld: UWorld::CleanupWorld for SideScrollerExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.06.06-04.34.35:426][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-04.34.35:435][139]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.06.06-04.34.35:438][139]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.06-04.34.35:455][139]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.06.06-04.34.35:456][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-04.34.35:456][139]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.06.06-04.34.35:471][139]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.06-04.34.35:474][139]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.06.06-04.34.35:492][140]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.06.06-04.34.39:851][385]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/SideScrollerCharacterC404D2CE4075FEF5558044A9245F7597.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Blueprints/SideScrollerCharacter.uasset'
+[2022.06.06-04.34.39:866][385]AssetCheck: New page: Asset Save: SideScrollerCharacter
+[2022.06.06-04.34.39:866][385]LogContentValidation: Display: Validating Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter
+[2022.06.06-04.35.04:333][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:333][878]Warning: OutputDelegate: Parse error while importing property values (PinName = OutputDelegate).
+[2022.06.06-04.35.04:333][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:334][878]Warning: then: Parse error while importing property values (PinName = then).
+[2022.06.06-04.35.04:334][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:334][878]Warning: DeltaSeconds: Parse error while importing property values (PinName = DeltaSeconds).
+[2022.06.06-04.35.04:335][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:335][878]Warning: CameraShakeSource: Parse error while importing property values (PinName = CameraShakeSource).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:336][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:336][878]Warning: execute: Parse error while importing property values (PinName = execute).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:336][878]Warning: then: Parse error while importing property values (PinName = then).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:336][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:336][878]Warning: InCameraShake: Parse error while importing property values (PinName = InCameraShake).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:336][878]Warning: Scale: Parse error while importing property values (PinName = Scale).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:336][878]Warning: PlaySpace: Parse error while importing property values (PinName = PlaySpace).
+[2022.06.06-04.35.04:336][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:337][878]Warning: UserPlaySpaceRot: Parse error while importing property values (PinName = UserPlaySpaceRot).
+[2022.06.06-04.35.04:337][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:337][878]Warning: CameraShakeCurrentScale: Parse error while importing property values (PinName = CameraShakeCurrentScale).
+[2022.06.06-04.35.04:337][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:337][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:338][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:338][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:338][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:338][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: ReturnValue_X: Parse error while importing property values (PinName = ReturnValue_X).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: ReturnValue_Y: Parse error while importing property values (PinName = ReturnValue_Y).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: ReturnValue_Z: Parse error while importing property values (PinName = ReturnValue_Z).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: X: Parse error while importing property values (PinName = X).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: Y: Parse error while importing property values (PinName = Y).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:339][878]Warning: V1: Parse error while importing property values (PinName = V1).
+[2022.06.06-04.35.04:339][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: V2: Parse error while importing property values (PinName = V2).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: execute: Parse error while importing property values (PinName = execute).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: then_0: Parse error while importing property values (PinName = then_0).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: then_1: Parse error while importing property values (PinName = then_1).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2022.06.06-04.35.04:340][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:340][878]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2022.06.06-04.35.04:341][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:341][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:341][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:341][878]Warning: A: Parse error while importing property values (PinName = A).
+[2022.06.06-04.35.04:341][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:341][878]Warning: B: Parse error while importing property values (PinName = B).
+[2022.06.06-04.35.04:341][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:341][878]Warning: Alpha: Parse error while importing property values (PinName = Alpha).
+[2022.06.06-04.35.04:341][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:341][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:342][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:342][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:342][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:342][878]Warning: Value: Parse error while importing property values (PinName = Value).
+[2022.06.06-04.35.04:342][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:342][878]Warning: RangeMin: Parse error while importing property values (PinName = RangeMin).
+[2022.06.06-04.35.04:342][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:342][878]Warning: RangeMax: Parse error while importing property values (PinName = RangeMax).
+[2022.06.06-04.35.04:342][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:342][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:342][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:342][878]Warning: CharacterMovement: Parse error while importing property values (PinName = CharacterMovement).
+[2022.06.06-04.35.04:342][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:342][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:343][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:343][878]Warning: MaxWalkSpeed: Parse error while importing property values (PinName = MaxWalkSpeed).
+[2022.06.06-04.35.04:343][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:343][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:343][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:343][878]Warning: CameraShakeOnStandScale: Parse error while importing property values (PinName = CameraShakeOnStandScale).
+[2022.06.06-04.35.04:343][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:343][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:343][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:343][878]Warning: CameraShakeOnWalkScale: Parse error while importing property values (PinName = CameraShakeOnWalkScale).
+[2022.06.06-04.35.04:344][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:344][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:344][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:344][878]Warning: execute: Parse error while importing property values (PinName = execute).
+[2022.06.06-04.35.04:344][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:344][878]Warning: then: Parse error while importing property values (PinName = then).
+[2022.06.06-04.35.04:344][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:344][878]Warning: CameraShakeCurrentScale: Parse error while importing property values (PinName = CameraShakeCurrentScale).
+[2022.06.06-04.35.04:344][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:344][878]Warning: Output_Get: Parse error while importing property values (PinName = Output_Get).
+[2022.06.06-04.35.04:345][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:345][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:345][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:345][878]Warning: execute: Parse error while importing property values (PinName = execute).
+[2022.06.06-04.35.04:345][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:345][878]Warning: then_0: Parse error while importing property values (PinName = then_0).
+[2022.06.06-04.35.04:345][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:345][878]Warning: then_1: Parse error while importing property values (PinName = then_1).
+[2022.06.06-04.35.04:345][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:345][878]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2022.06.06-04.35.04:345][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:345][878]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2022.06.06-04.35.04:346][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:346][878]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2022.06.06-04.35.04:346][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:346][878]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2022.06.06-04.35.04:346][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:346][878]Warning: CameraBoom: Parse error while importing property values (PinName = CameraBoom).
+[2022.06.06-04.35.04:347][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:347][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:347][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:347][878]Warning: execute: Parse error while importing property values (PinName = execute).
+[2022.06.06-04.35.04:347][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:347][878]Warning: then: Parse error while importing property values (PinName = then).
+[2022.06.06-04.35.04:347][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:347][878]Warning: TargetArmLength: Parse error while importing property values (PinName = TargetArmLength).
+[2022.06.06-04.35.04:347][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:347][878]Warning: Output_Get: Parse error while importing property values (PinName = Output_Get).
+[2022.06.06-04.35.04:347][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:347][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:347][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:348][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:348][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:348][878]Warning: Current: Parse error while importing property values (PinName = Current).
+[2022.06.06-04.35.04:348][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:348][878]Warning: Target: Parse error while importing property values (PinName = Target).
+[2022.06.06-04.35.04:348][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:348][878]Warning: DeltaTime: Parse error while importing property values (PinName = DeltaTime).
+[2022.06.06-04.35.04:348][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:348][878]Warning: InterpSpeed: Parse error while importing property values (PinName = InterpSpeed).
+[2022.06.06-04.35.04:348][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:348][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:348][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:349][878]Warning: InputPin: Parse error while importing property values (PinName = InputPin).
+[2022.06.06-04.35.04:349][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:349][878]Warning: OutputPin: Parse error while importing property values (PinName = OutputPin).
+[2022.06.06-04.35.04:349][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:349][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:349][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:349][878]Warning: A: Parse error while importing property values (PinName = A).
+[2022.06.06-04.35.04:349][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:349][878]Warning: B: Parse error while importing property values (PinName = B).
+[2022.06.06-04.35.04:349][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:349][878]Warning: Alpha: Parse error while importing property values (PinName = Alpha).
+[2022.06.06-04.35.04:349][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:349][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:350][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:350][878]Warning: self: Parse error while importing property values (PinName = self).
+[2022.06.06-04.35.04:350][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:350][878]Warning: WorldContextObject: Parse error while importing property values (PinName = WorldContextObject).
+[2022.06.06-04.35.04:350][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.04:350][878]Warning: ReturnValue: Parse error while importing property values (PinName = ReturnValue).
+[2022.06.06-04.35.04:351][878]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.06-04.35.08:432][878]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.081 s
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: === Handled ensure: ===
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: 
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: Ensure condition failed: ThisPin [File:D:/Build/++UE4/Sync/Engine/Source/Editor/UnrealEd/Private/EdGraphUtilities.cpp] [Line: 38]
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: 
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: Stack: 
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: [Callstack] 0x00007ff99ae547f8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: [Callstack] 0x00007ff99a18bcb5 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: [Callstack] 0x00007ff99a18c122 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: [Callstack] 0x00007ff99a1762b7 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: [Callstack] 0x00007ff998394f50 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.06-04.35.08:432][878]LogOutputDevice: Error: [Callstack] 0x00007ff998394d16 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff99836d576 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9a56533a9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9a568c62a UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff994ed0578 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9a56225b2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9a568e368 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9a5682226 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9e816b958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9e8159197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9e816e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9e8154310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ffa85b01c4c USER32.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ffa85b00ea6 USER32.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff9e816f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff777f48848 UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff777f6117c UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff777f6125a UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff777f752bd UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ff777f77fea UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ffa84d554e0 KERNEL32.DLL!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: [Callstack] 0x00007ffa85dc485b ntdll.dll!UnknownFunction []
+[2022.06.06-04.35.08:433][878]LogOutputDevice: Error: 
+[2022.06.06-04.35.08:435][878]LogStats:                SubmitErrorReport -  0.000 s
+[2022.06.06-04.35.11:371][878]LogStats:                    SendNewReport -  2.936 s
+[2022.06.06-04.35.11:371][878]LogStats:             FDebug::EnsureFailed -  7.020 s
+[2022.06.06-04.35.11:377][878]LogBlueprint: Warning: [SideScrollerCharacter] RecreatePinForVariable: 'CameraShakeSource' pin not found
+[2022.06.06-04.35.11:378][878]LogBlueprint: Warning: [SideScrollerCharacter] RecreatePinForVariable: 'CameraShakeCurrentScale' pin not found
+[2022.06.06-04.35.11:378][878]LogBlueprint: Warning: [SideScrollerCharacter] RecreatePinForVariable: 'CameraShakeOnStandScale' pin not found
+[2022.06.06-04.35.11:378][878]LogBlueprint: Warning: [SideScrollerCharacter] RecreatePinForVariable: 'CameraShakeOnWalkScale' pin not found
+[2022.06.06-04.35.11:378][878]LogBlueprint: Warning: [SideScrollerCharacter] RecreatePinForVariable: 'CameraShakeCurrentScale' pin not found
+[2022.06.06-04.35.11:378][878]LogBlueprint: Warning: [SideScrollerCharacter] RecreatePinForVariable: 'CameraBoom' pin not found
+[2022.06.06-04.35.11:408][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.11:408][878]Warning: OutputDelegate: Parse error while importing property values (PinName = OutputDelegate).
+[2022.06.06-04.35.11:408][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.11:408][878]Warning: then: Parse error while importing property values (PinName = then).
+[2022.06.06-04.35.11:408][878]Warning: Unknown pin type member: bSerializeAsSinglePrecisionFloat.
+[2022.06.06-04.35.11:408][878]Warning: DeltaSeconds: Parse error while importing property values (PinName = DeltaSeconds).
+[2022.06.06-04.35.11:408][878]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.06-04.35.11:409][878]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
+[2022.06.06-04.35.18:941][878]LogWindows: Error: === Critical error: ===
+[2022.06.06-04.35.18:941][878]LogWindows: Error: 
+[2022.06.06-04.35.18:941][878]LogWindows: Error: Assertion failed: Pin [File:D:/Build/++UE4/Sync/Engine/Source/Editor/BlueprintGraph/Private/EdGraphSchema_K2.cpp] [Line: 6292] 
+[2022.06.06-04.35.18:941][878]LogWindows: Error: 
+[2022.06.06-04.35.18:941][878]LogWindows: Error: 
+[2022.06.06-04.35.18:941][878]LogWindows: Error: 
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ffa8343474c KERNELBASE.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a613d066 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a61407a8 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a5e4e8cd UE4Editor-Core.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a5de5575 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a5de7620 UE4Editor-Core.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff99613a3ae UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff99a1916bb UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff99a34fe9d UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff99a1762aa UE4Editor-UnrealEd.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff998394f50 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff998394d16 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff99836d576 UE4Editor-Kismet.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a56533a9 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a568c62a UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff994ed0578 UE4Editor-GraphEditor.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a56225b2 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a568e368 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9a5682226 UE4Editor-Slate.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9e816b958 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9e8159197 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9e816e389 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9e8154310 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ffa85b01c4c USER32.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ffa85b00ea6 USER32.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff9e816f914 UE4Editor-ApplicationCore.dll!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff777f48848 UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff777f6117c UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.18:941][878]LogWindows: Error: [Callstack] 0x00007ff777f6125a UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.18:942][878]LogWindows: Error: [Callstack] 0x00007ff777f752bd UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.18:942][878]LogWindows: Error: [Callstack] 0x00007ff777f77fea UE4Editor.exe!UnknownFunction []
+[2022.06.06-04.35.18:942][878]LogWindows: Error: [Callstack] 0x00007ffa84d554e0 KERNEL32.DLL!UnknownFunction []
+[2022.06.06-04.35.18:942][878]LogWindows: Error: [Callstack] 0x00007ffa85dc485b ntdll.dll!UnknownFunction []
+[2022.06.06-04.35.18:942][878]LogWindows: Error: 
+[2022.06.06-04.35.18:964][878]LogExit: Executing StaticShutdownAfterError
+[2022.06.06-04.35.18:967][878]LogWindows: FPlatformMisc::RequestExit(1)
+[2022.06.06-04.35.18:967][878]LogCore: Engine exit requested (reason: Win RequestExit)
+[2022.06.06-04.35.18:986][878]Log file closed, 06/06/22 09:35:18
