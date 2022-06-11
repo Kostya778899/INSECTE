@@ -1,0 +1,1400 @@
+﻿Log file open, 06/11/22 08:27:34
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: INSECTE
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.450152
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +5:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: D:/Unreal/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.11-03.27.34:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.06.11-03.27.34:900][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.11-03.27.34:901][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.11-03.27.34:936][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.11-03.27.34:936][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.11-03.27.34:937][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.11-03.27.34:937][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.11-03.27.34:938][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.06.11-03.27.34:938][  0]LogHAL: Display: Platform has ~ 16 GB [17009004544 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.06.11-03.27.34:938][  0]LogInit: Going up to parent DeviceProfile []
+[2022.06.11-03.27.34:938][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.06.11-03.27.34:938][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Scalability.ini]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.06.11-03.27.34:939][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.06.11-03.27.34:940][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.06.11-03.27.34:940][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.06.11-03.27.34:940][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.06.11-03.27.34:940][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Engine.ini]
+[2022.06.11-03.27.34:940][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Config/Windows/Editor.ini]
+[2022.06.11-03.27.34:940][  0]LogInit: Computer: LAPTOP-OQ1M63MF
+[2022.06.11-03.27.34:940][  0]LogInit: User: vikto
+[2022.06.11-03.27.34:940][  0]LogInit: CPU Page size=4096, Cores=4
+[2022.06.11-03.27.34:940][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.06.11-03.27.34:940][  0]LogMemory: Memory total: Physical=15.8GB (16GB approx)
+[2022.06.11-03.27.34:940][  0]LogMemory: Platform Memory Stats for Windows
+[2022.06.11-03.27.34:940][  0]LogMemory: Process Physical Memory: 140.14 MB used, 140.14 MB peak
+[2022.06.11-03.27.34:940][  0]LogMemory: Process Virtual Memory: 113.02 MB used, 113.02 MB peak
+[2022.06.11-03.27.34:940][  0]LogMemory: Physical Memory: 8791.29 MB used,  7429.76 MB free, 16221.05 MB total
+[2022.06.11-03.27.34:940][  0]LogMemory: Virtual Memory: 134209184.00 MB used,  8545.98 MB free, 134217728.00 MB total
+[2022.06.11-03.27.34:943][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.06.11-03.27.35:008][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.06.11-03.27.35:009][  0]LogInit: Using OS detected language (ru-RU).
+[2022.06.11-03.27.35:009][  0]LogInit: Using OS detected locale (ru-RU).
+[2022.06.11-03.27.35:018][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2022.06.11-03.27.35:018][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2022.06.11-03.27.35:019][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2022.06.11-03.27.35:019][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2022.06.11-03.27.35:019][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2022.06.11-03.27.35:019][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2022.06.11-03.27.35:019][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2022.06.11-03.27.35:020][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2022.06.11-03.27.35:021][  0]LogInit: Setting process to per monitor DPI aware
+[2022.06.11-03.27.35:035][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.06.11-03.27.35:055][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.06.11-03.27.35:055][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.06.11-03.27.42:634][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.06.11-03.27.42:634][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.06.11-03.27.42:634][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.06.11-03.27.42:634][  0]LogD3D11RHI: D3D11 adapters:
+[2022.06.11-03.27.42:742][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1650' (Feature Level 11_0)
+[2022.06.11-03.27.42:742][  0]LogD3D11RHI:       3962/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.06.11-03.27.42:771][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2022.06.11-03.27.42:771][  0]LogD3D11RHI:       128/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2022.06.11-03.27.42:774][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.06.11-03.27.42:774][  0]LogD3D11RHI:       0/0/8110 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.06.11-03.27.42:774][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2022.06.11-03.27.42:782][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.06.11-03.27.42:782][  0]LogD3D11RHI:     GPU DeviceId: 0x1f91 (for the marketing name, search the web for "GPU Device Id")
+[2022.06.11-03.27.42:782][  0]LogWindows: EnumDisplayDevices:
+[2022.06.11-03.27.42:783][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2022.06.11-03.27.42:783][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.11-03.27.42:784][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2022.06.11-03.27.42:784][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650' (P:1 D:1)
+[2022.06.11-03.27.42:784][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.06.11-03.27.42:784][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1650
+[2022.06.11-03.27.42:784][  0]LogD3D11RHI:   Driver Version: 451.67 (internal:27.21.14.5167, unified:451.67)
+[2022.06.11-03.27.42:784][  0]LogD3D11RHI:      Driver Date: 7-5-2020
+[2022.06.11-03.27.42:784][  0]LogRHI: Texture pool is 2773 MB (70% of 3962 MB)
+[2022.06.11-03.27.42:840][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.06.11-03.27.42:840][  0]LogD3D11RHI: Async texture creation enabled
+[2022.06.11-03.27.42:840][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.06.11-03.27.42:857][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2022.06.11-03.27.42:859][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.06.11-03.27.43:368][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.06.11-03.27.43:393][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.06.11-03.27.43:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.06.11-03.27.43:430][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.06.11-03.27.43:443][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.06.11-03.27.43:455][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.06.11-03.27.43:467][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.06.11-03.27.43:479][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.06.11-03.27.43:491][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.06.11-03.27.43:503][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.06.11-03.27.43:516][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.06.11-03.27.43:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.06.11-03.27.43:546][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.06.11-03.27.43:563][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.06.11-03.27.43:584][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.06.11-03.27.43:600][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.06.11-03.27.43:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.06.11-03.27.43:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.06.11-03.27.43:636][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.06.11-03.27.43:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.06.11-03.27.43:670][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.06.11-03.27.43:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.06.11-03.27.43:706][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.06.11-03.27.43:706][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.06.11-03.27.43:731][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.06.11-03.27.43:912][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.06.11-03.27.43:912][  0]LogShaderCompilers: Guid format shader working directory is 1 characters bigger than the processId version (../../../../Projects/INSECTE/INSECTE/INSECTE/Intermediate/Shaders/WorkingDirectory/20476/).
+[2022.06.11-03.27.43:913][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/vikto/AppData/Local/Temp/UnrealShaderWorkingDir/E9C24C2A424E96408FF3E59B30C8469A/'.
+[2022.06.11-03.27.43:913][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.06.11-03.27.43:913][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.06.11-03.27.44:616][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.06.11-03.27.44:659][  0]LogDerivedDataCache: Loaded boot cache 0.04s 77MB C:/Users/vikto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.11-03.27.44:659][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/vikto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2022.06.11-03.27.44:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../Projects/INSECTE/INSECTE/INSECTE/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.06.11-03.27.44:660][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.06.11-03.27.44:660][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../Projects/INSECTE/INSECTE/INSECTE/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.11-03.27.44:660][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.06.11-03.27.44:670][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.06.11-03.27.44:670][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.06.11-03.27.44:670][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.06.11-03.27.44:680][  0]LogDerivedDataCache: Speed tests for C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.06.11-03.27.44:681][  0]LogDerivedDataCache: Display: Performance to C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.08ms. RandomReadSpeed=1075.28MBs, RandomWriteSpeed=116.92MBs. Assigned SpeedClass 'Local'
+[2022.06.11-03.27.44:681][  0]LogDerivedDataCache: Using Local data cache path C:/Users/vikto/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.06.11-03.27.44:681][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.06.11-03.27.44:681][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.06.11-03.27.44:725][  0]LogSlate: Using FreeType 2.10.0
+[2022.06.11-03.27.44:725][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.06.11-03.27.44:754][  0]LogAssetRegistry: FAssetRegistry took 0.0024 seconds to start up
+[2022.06.11-03.27.44:983][  0]LogInit: Selected Device Profile: [Windows]
+[2022.06.11-03.27.44:983][  0]LogInit: Active device profile: [000001FFB9FBE300][000001FFB81FAD00 49] Windows
+[2022.06.11-03.27.44:983][  0]LogInit: Profiles: [000001FFB9FBE300][000001FFB81FAD00 49] Windows, [000001FFB9F62000][000001FFBA414E80 49] WindowsNoEditor, [000001FFB9FBF300][000001FFBA419000 49] WindowsServer, [000001FFB9F60B00][000001FFBA41D180 49] WindowsClient, [000001FFB9FBDE00][000001FFBA421300 49] IOS, [000001FFB9F63500][000001FFBA425480 49] iPadAir, [000001FFB9FBC300][000001FFBA4115C0 49] iPadAir2, [000001FFB9EF5F00][000001FFBA42D800 49] IPadPro, [000001FFB9EF6000][000001FFBA429840 49] iPadAir3, [000001FFB9F61300][000001FFBA431980 49] iPadAir4, [000001FFB9EF7700][000001FFBA439B00 49] iPadMini2, [000001FFB9F60700][000001FFBA43DC80 49] iPadMini3, [000001FFB9EF5600][000001FFBA440140 49] iPadMini4, [000001FFB9F63B00][000001FFBA4442C0 49] iPadMini5, [000001FFB9F0D700][000001FFBA44C580 49] iPhone6, [000001FFB9F0D800][000001FFBA4485C0 49] iPodTouch6, [000001FFB9EF6700][000001FFBA454880 49] iPhone7, [000001FFB9EF6600][000001FFBA4508C0 49] iPodTouch7, [000001FFB9F0EE00][000001FFBA458A40 49] iPhone5S, [000001FFB9EF6F00][000001FFBA45CBC0 49] iPhone6Plus, [000001FFB9F0FE00][000001FFBA460D40 49] iPhone6S, [000001FFB9EF4400][000001FFBA464EC0 49] iPhone6SPlus, [000001FFB9F0C900][000001FFBA469040 49] iPhone7Plus, [000001FFB9EF7A00][000001FFBA46D1C0 49] iPhoneSE, [000001FFB9F0EA00][000001FFBA471340 49] iPhone8, [000001FFB9EF4800][000001FFBA4754C0 49] iPhone8Plus, [000001FFB9F0E400][000001FFBA479640 49] iPhoneX, [000001FFB9EF4D00][000001FFBA435780 49] iPhoneXS, [000001FFB9F0DE00][000001FFBA47D8C0 49] iPhoneXSMax, [000001FFB9EF5A00][000001FFBA481A00 49] iPhoneXR, [000001FFB9F0EF00][000001FFBA489B80 49] iPhone11, [000001FFB9EF6800][000001FFBA48DD00 49] iPhone11Pro, [000001FFB9F0E100][000001FFBA4901C0 49] iPhone11ProMax, [000001FFB9EF6C00][000001FFBA494340 49] iPhoneSE2, [000001FFB9F0C700][000001FFBA4984C0 49] iPhone12Mini, [000001FFB9EF7900][000001FFBA49C640 49] iPhone12, [000001FFB9F0C600][000001FFBA4A07C0 49] iPhone12Pro, [000001FFB9EF6E00][000001FFBA4A4940 49] iPhone12ProMax, [000001FFB9FBED00][000001FFBA4A8AC0 49] iPadPro105, [000001FFB9EF4900][000001FFBA4ACC40 49] iPadPro129, [000001FFB9FBDC00][000001FFBA4B0DC0 49] iPadPro97, [000001FFB9EF6100][000001FFBA4B4F40 49] iPadPro2_129, [000001FFB9FBD100][000001FFBA4B90C0 49] iPad5, [000001FFB9EF5000][000001FFBA4BD240 49] iPad6, [000001FFB9FBE800][000001FFBA4C13C0 49] iPad7, [000001FFB9EF5E00][000001FFBA4C5540 49] iPad8, [000001FFB9FBC900][000001FFBA4C96C0 49] iPadPro11, [000001FFB9EF5900][000001FFBA485800 49] iPadPro2_11, [000001FFB9FBD500][000001FFBA4CD940 49] iPadPro3_129, [000001FFB9EF6200][000001FFBA4D1A80 49] iPadPro4_129, [000001FFB9FBE600][000001FFBA4D9C00 49] AppleTV, [000001FFB9EF7600][000001FFBA4DC0C0 49] AppleTV4K, [000001FFB9FBF600][000001FFBA4E0240 49] TVOS, [000001FFB9EF7200][000001FFBA4E43C0 49] Mac, [000001FFB9FBE200][000001FFBA4E8540 49] MacClient, [000001FFB9EF7300][000001FFBA4EC6C0 49] MacNoEditor, [000001FFB9FBCE00][000001FFBA4F0840 49] MacServer, [000001FFB9EF5C00][000001FFBA4F49C0 49] Linux, [000001FFB9FBD300][000001FFBA4F8B40 49] LinuxAArch64, [000001FFB9EF5700][000001FFBA4FCCC0 49] LinuxNoEditor, [000001FFB9FBC400][000001FFBA500E40 49] LinuxAArch64NoEditor, [000001FFB9EF4500][000001FFBA504FC0 49] LinuxClient, [000001FFB9FBEE00][000001FFBA509140 49] LinuxAArch64Client, [000001FFB9EF7000][000001FFBA50D2C0 49] LinuxServer, [000001FFB9FBD400][000001FFBA511440 49] LinuxAArch64Server, [000001FFB9EF6B00][000001FFBA5155C0 49] Android, [000001FFB9FBC100][000001FFBA519740 49] Android_Low, [000001FFB9EF6300][000001FFBA4D5880 49] Android_Mid, [000001FFB9FBEA00][000001FFBA51D9C0 49] Android_High, [000001FFB9EF7C00][000001FFBA521B00 49] Android_Default, [000001FFB9FBCB00][000001FFBA525C40 49] Android_Adreno4xx, [000001FFB9EF4E00][000001FFBA52C100 49] Android_Adreno5xx_Low, [000001FFB9FBDB00][000001FFBA530280 49] Android_Adreno5xx, [000001FFB9EF5800][000001FFBA534400 49] Android_Adreno6xx, [000001FFB9FBCA00][000001FFBA538580 49] Android_Adreno6xx_Vulkan, [000001FFB9EF6500][000001FFBA53C700 49] Android_Mali_T6xx, [000001FFB9FBC200][000001FFBA540880 49] Android_Mali_T7xx, [000001FFB9EF4600][000001FFBA544A00 49] Android_Mali_T8xx, [000001FFB9F0D200][000001FFBA548B80 49] Android_Mali_G71, [000001FFB9F61100][000001FFBA54CD00 49] Android_Mali_G72, [000001FFB9F0DA00][000001FFBA550E80 49] Android_Mali_G72_Vulkan, [000001FFB9F62300][000001FFBA555000 49] Android_Mali_G76, [000001FFB9F0FB00][000001FFBA559180 49] Android_Mali_G76_Vulkan, [000001FFB9F62C00][000001FFBA55D300 49] Android_Mali_G77, [000001FFB9F0ED00][000001FFBA561480 49] Android_Mali_G77_Vulkan, [000001FFB9F60400][000001FFBA565600 49] Android_Vulkan_SM5, [000001FFB9F0F000][000001FFBA569780 49] Android_PowerVR_G6xxx, [000001FFB9F60800][000001FFBA5298C0 49] Android_PowerVR_GT7xxx, [000001FFB9F0D900][000001FFBA56DA00 49] Android_PowerVR_GE8xxx, [000001FFB9F63D00][000001FFBA571B40 49] Android_PowerVR_GM9xxx, [000001FFB9F0FC00][000001FFBA575C80 49] Android_PowerVR_GM9xxx_Vulkan, [000001FFB9F60F00][000001FFBA57C140 49] Android_TegraK1, [000001FFB9F0DB00][000001FFBA5802C0 49] Android_Unknown_Vulkan, [000001FFB9F60500][000001FFBA584440 49] Lumin, [000001FFB9F0E700][000001FFBA5885C0 49] Lumin_Desktop, [000001FFB9F60100][000001FFBA58C740 49] HoloLens, 
+[2022.06.11-03.27.45:219][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.06.11-03.27.45:219][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.06.11-03.27.45:219][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.06.11-03.27.45:219][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.06.11-03.27.45:219][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.06.11-03.27.45:239][  0]LogNetVersion: INSECTE 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3626827506)
+[2022.06.11-03.27.45:659][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.06.11-03.27.45:829][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.169105 seconds
+[2022.06.11-03.27.45:834][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2022.06.11-03.27.45:834][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2022.06.11-03.27.45:834][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.06.11-03.27.46:518][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.06.11-03.27.46:525][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.06.11-03.27.46:678][  0]SourceControl: Source control is disabled
+[2022.06.11-03.27.46:678][  0]SourceControl: Source control is disabled
+[2022.06.11-03.27.46:683][  0]SourceControl: Source control is disabled
+[2022.06.11-03.27.46:689][  0]SourceControl: Source control is disabled
+[2022.06.11-03.27.46:709][  0]SourceControl: Source control is disabled
+[2022.06.11-03.27.46:720][  0]LogUProjectInfo: Found projects:
+[2022.06.11-03.27.47:111][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.06.11-03.27.47:155][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.11-03.27.47:155][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.06.11-03.27.47:238][  0]LogCollectionManager: Loaded 0 collections in 0.001245 seconds
+[2022.06.11-03.27.47:274][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Saved/Collections/' took 0.00s
+[2022.06.11-03.27.47:274][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Content/Developers/vikto/Collections/' took 0.00s
+[2022.06.11-03.27.47:274][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Content/Collections/' took 0.00s
+[2022.06.11-03.27.47:274][  0]LogOcInput: OculusInput pre-init called
+[2022.06.11-03.27.47:299][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2022.06.11-03.27.47:300][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2022.06.11-03.27.47:359][  0]LogEngine: Initializing Engine...
+[2022.06.11-03.27.47:417][  0]LogHMD: Failed to initialize OpenVR with code 108
+[2022.06.11-03.27.47:417][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.06.11-03.27.47:418][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.06.11-03.27.47:511][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.06.11-03.27.47:525][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.06.11-03.27.47:534][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.06.11-03.27.47:544][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.06.11-03.27.47:544][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.06.11-03.27.47:544][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.06.11-03.27.47:544][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.06.11-03.27.47:544][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.06.11-03.27.47:544][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.06.11-03.27.47:544][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.06.11-03.27.47:544][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.06.11-03.27.47:544][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.06.11-03.27.47:544][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.06.11-03.27.47:545][  0]LogAudio: Display: Using built-in audio occlusion.
+[2022.06.11-03.27.47:545][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.06.11-03.27.47:571][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.06.11-03.27.47:571][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.06.11-03.27.47:874][  0]LogAudioMixer: Display: Using Audio Device Динамики (Realtek(R) Audio)
+[2022.06.11-03.27.47:877][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.06.11-03.27.47:879][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.06.11-03.27.47:879][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.06.11-03.27.47:880][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.06.11-03.27.47:880][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.06.11-03.27.47:880][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.06.11-03.27.47:881][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.06.11-03.27.47:881][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.06.11-03.27.47:881][  0]LogInit: FAudioDevice initialized.
+[2022.06.11-03.27.47:881][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.06.11-03.27.47:881][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.06.11-03.27.47:927][  0]LogDerivedDataCache: Saved boot cache 0.05s 77MB C:/Users/vikto/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2022.06.11-03.27.47:928][  0]LogInit: Texture streaming: Enabled
+[2022.06.11-03.27.47:957][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2022.06.11-03.27.47:970][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.06.11-03.27.47:970][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.06.11-03.27.47:990][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.06.11-03.27.48:084][  0]LogInit: Transaction tracking system initialized
+[2022.06.11-03.27.48:138][  0]BlueprintLog: New page: Editor Load
+[2022.06.11-03.27.48:305][  0]LocalizationService: Localization service is disabled
+[2022.06.11-03.27.48:366][  0]TimingProfiler: Initialize
+[2022.06.11-03.27.48:366][  0]TimingProfiler: OnSessionChanged
+[2022.06.11-03.27.48:366][  0]LoadingProfiler: Initialize
+[2022.06.11-03.27.48:366][  0]LoadingProfiler: OnSessionChanged
+[2022.06.11-03.27.48:367][  0]NetworkingProfiler: Initialize
+[2022.06.11-03.27.48:367][  0]NetworkingProfiler: OnSessionChanged
+[2022.06.11-03.27.48:367][  0]MemoryProfiler: Initialize
+[2022.06.11-03.27.48:367][  0]MemoryProfiler: OnSessionChanged
+[2022.06.11-03.27.49:107][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.06.11-03.27.49:107][  0]LogCook: Display: Mobile HDR setting 1
+[2022.06.11-03.27.49:382][  0]LogFileCache: Scanning file cache for directory 'D:/Unreal/Projects/INSECTE/INSECTE/INSECTE/Content/' took 0.01s
+[2022.06.11-03.27.49:570][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.06.11-03.27.49:583][  0]SourceControl: Source control is disabled
+[2022.06.11-03.27.49:583][  0]LogUnrealEdMisc: Loading editor; pre map load, took 16.507
+[2022.06.11-03.27.49:583][  0]Cmd: MAP LOAD FILE="../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/Main_Gameplay.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.06.11-03.27.49:584][  0]LightingResults: New page: Lighting Build
+[2022.06.11-03.27.49:585][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.06.11-03.27.49:585][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.06.11-03.27.49:585][  0]MapCheck: New page: Map Check
+[2022.06.11-03.27.49:585][  0]LightingResults: New page: Lighting Build
+[2022.06.11-03.27.49:591][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2022.06.11-03.27.49:786][  0]LogStaticMesh: Building static mesh 1M_Cube...
+[2022.06.11-03.27.49:803][  0]LogStaticMesh: Built static mesh [0.02s] /Game/Geometry/Meshes/1M_Cube.1M_Cube
+[2022.06.11-03.27.49:897][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Main_Gameplay'.
+[2022.06.11-03.27.49:898][  0]LogAIModule: Creating AISystem for world Main_Gameplay
+[2022.06.11-03.27.49:906][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.06.11-03.27.49:915][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2022.06.11-03.27.49:915][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.06.11-03.27.49:916][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,264ms to complete.
+[2022.06.11-03.27.49:916][  0]LogFileHelpers: Loading map 'Main_Gameplay' took 0.332
+[2022.06.11-03.27.49:917][  0]LogUnrealEdMisc: Total Editor Startup Time, took 16.841
+[2022.06.11-03.27.50:044][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.11-03.27.50:050][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.11-03.27.50:056][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.11-03.27.50:062][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.06.11-03.27.50:085][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0082 seconds. Added 3601 classes and 859 folders.
+[2022.06.11-03.27.50:088][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.06.11-03.27.50:090][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.06.11-03.27.50:090][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:090][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.06.11-03.27.50:090][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2022.06.11-03.27.50:091][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.11-03.27.50:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.11-03.27.50:091][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2022.06.11-03.27.50:091][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.11-03.27.50:091][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:091][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.11-03.27.50:091][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2022.06.11-03.27.50:092][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.11-03.27.50:092][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:092][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.11-03.27.50:092][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2022.06.11-03.27.50:093][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.11-03.27.50:093][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:093][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.11-03.27.50:093][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2022.06.11-03.27.50:094][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.11-03.27.50:094][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:094][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.11-03.27.50:094][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2022.06.11-03.27.50:095][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.11-03.27.50:095][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:095][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.11-03.27.50:095][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2022.06.11-03.27.50:096][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.11-03.27.50:096][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:096][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.11-03.27.50:096][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.06.11-03.27.50:097][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.11-03.27.50:097][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:097][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.11-03.27.50:097][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.06.11-03.27.50:098][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.06.11-03.27.50:098][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:098][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.06.11-03.27.50:098][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.06.11-03.27.50:099][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.06.11-03.27.50:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.06.11-03.27.50:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000029
+[2022.06.11-03.27.50:099][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.11-03.27.50:099][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:099][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.11-03.27.50:099][  0]LogPakFile: OnPakFileMounted2Time == 0.000031
+[2022.06.11-03.27.50:100][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.11-03.27.50:100][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:100][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.11-03.27.50:100][  0]LogPakFile: OnPakFileMounted2Time == 0.000033
+[2022.06.11-03.27.50:101][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.11-03.27.50:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.11-03.27.50:101][  0]LogPakFile: OnPakFileMounted2Time == 0.000034
+[2022.06.11-03.27.50:101][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.06.11-03.27.50:101][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:101][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.06.11-03.27.50:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000036
+[2022.06.11-03.27.50:102][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.11-03.27.50:102][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:102][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.11-03.27.50:102][  0]LogPakFile: OnPakFileMounted2Time == 0.000037
+[2022.06.11-03.27.50:103][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.06.11-03.27.50:103][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:103][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.06.11-03.27.50:103][  0]LogPakFile: OnPakFileMounted2Time == 0.000039
+[2022.06.11-03.27.50:104][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.11-03.27.50:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.11-03.27.50:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000040
+[2022.06.11-03.27.50:104][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.11-03.27.50:104][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:104][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.11-03.27.50:104][  0]LogPakFile: OnPakFileMounted2Time == 0.000041
+[2022.06.11-03.27.50:105][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.11-03.27.50:105][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:105][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.11-03.27.50:105][  0]LogPakFile: OnPakFileMounted2Time == 0.000042
+[2022.06.11-03.27.50:106][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.06.11-03.27.50:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.06.11-03.27.50:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.06.11-03.27.50:106][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.06.11-03.27.50:106][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:106][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.06.11-03.27.50:106][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.06.11-03.27.50:107][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.06.11-03.27.50:107][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:107][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.06.11-03.27.50:107][  0]LogPakFile: OnPakFileMounted2Time == 0.000047
+[2022.06.11-03.27.50:108][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.06.11-03.27.50:108][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:108][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.06.11-03.27.50:108][  0]LogPakFile: OnPakFileMounted2Time == 0.000050
+[2022.06.11-03.27.50:109][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.06.11-03.27.50:109][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.06.11-03.27.50:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000053
+[2022.06.11-03.27.50:110][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.06.11-03.27.50:110][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.06.11-03.27.50:110][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.06.11-03.27.50:110][  0]LogPakFile: OnPakFileMounted2Time == 0.000056
+[2022.06.11-03.27.50:170][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.06.11-03.27.50:173][  0]LogSlate: The tab "/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_ActiveTab" attempted to spawn but failed for some reason. It will not be displayed but it will still be saved in the layout settings file.
+[2022.06.11-03.27.50:282][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0003 seconds. Added 2 classes and 0 folders.
+[2022.06.11-03.27.50:329][  0]LogSlate: Took 0.000288 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.06.11-03.27.50:334][  0]LogSlate: Took 0.000238 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.06.11-03.27.50:339][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.06.11-03.27.50:453][  0]LogRenderer: Reallocating scene render targets to support 1032x568 Format 10 NumSamples 1 (Frame:1).
+[2022.06.11-03.27.50:631][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0004 seconds. Added 0 classes and 0 folders.
+[2022.06.11-03.27.50:631][  0]LogLoad: (Engine Initialization) Total time: 17.56 seconds
+[2022.06.11-03.27.50:631][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.06.11-03.27.50:631][  0]LogInit: First time updating LLM stats...
+[2022.06.11-03.27.50:688][  0]LogAssetRegistry: Asset discovery search completed in 5.9360 seconds
+[2022.06.11-03.27.50:690][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.06.11-03.27.50:768][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2022.06.11-03.27.51:333][  2]LogSlate: Took 0.000115 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.11-03.27.51:995][  4]LogSlate: Took 0.000189 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.06.11-03.28.03:670][256]LogAssetEditorSubsystem: Opening Asset editor for EditorUtilityWidgetBlueprint /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints
+[2022.06.11-03.28.03:818][256]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2022.06.11-03.28.04:952][256]LogSlate: Took 0.000168 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.06.11-03.28.15:154][855]LogSlate: Window 'WBPE_Checkpoints' being destroyed
+[2022.06.11-03.28.16:768][950]LogSlate: Took 0.000163 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.06.11-03.28.36:670][123]LogSlate: Took 0.000171 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.06.11-03.29.28:137][166]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.29.28:140][166]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_0 is already used by REINST_WBPE_Checkpoints_C_6 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.29.28:199][166]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.06.11-03.30.01:796][946]LogSlate: Window 'Delete widgets' being destroyed
+[2022.06.11-03.30.01:809][946]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_10
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.30.01:809][946]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_10
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.30.01:809][946]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_10
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.30.28:938][541]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_11
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.30.28:938][541]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_11
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.30.28:938][541]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_11
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.30.41:340][118]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_12
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.30.41:340][118]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_12
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.30.41:340][118]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_12
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.30.54:071][800]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_13
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.30.54:071][800]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_13
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.30.54:071][800]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_13
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.30.59:525][115]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_14
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.30.59:525][115]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_14
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.30.59:525][115]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_14
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.31.15:197][ 32]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_16
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.31.15:197][ 32]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_16
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.31.15:197][ 32]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_16
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.31.16:118][ 81]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_18
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.31.16:118][ 81]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_18
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.31.16:118][ 81]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_18
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.31.29:810][896]LogEditorTransaction: Undo Resize Widget
+[2022.06.11-03.31.29:902][896]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_19
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:0039
+[2022.06.11-03.31.29:902][896]LogScript: Warning: Accessed None trying to read property SinglePropertyView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_19
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:005C
+[2022.06.11-03.31.29:902][896]LogScript: Warning: Accessed None trying to read property DetailsView_0
+	WBPE_Checkpoints_C /Engine/Transient.World_1:WBPE_Checkpoints_C_19
+	Function /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:ExecuteUbergraph_WBPE_Checkpoints:008B
+[2022.06.11-03.31.31:756][993]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.31.31:758][993]LogBlueprint: Warning: [AssetLog] D:\Unreal\Projects\INSECTE\INSECTE\INSECTE\Content\SideScrollerBP\CheckpointsEditor\WBPE_Checkpoints.uasset: [Compiler] On Check State Changed (CheckBox_0)  does not have a valid matching component!
+[2022.06.11-03.31.31:759][993]LogBlueprint: Error: [AssetLog] D:\Unreal\Projects\INSECTE\INSECTE\INSECTE\Content\SideScrollerBP\CheckpointsEditor\WBPE_Checkpoints.uasset: [Compiler] This blueprint (self) is not a PropertyViewBase, therefore ' Target ' must have a connection.
+[2022.06.11-03.31.31:760][993]LogBlueprint: Error: [AssetLog] D:\Unreal\Projects\INSECTE\INSECTE\INSECTE\Content\SideScrollerBP\CheckpointsEditor\WBPE_Checkpoints.uasset: [Compiler] This blueprint (self) is not a SinglePropertyView, therefore ' Target ' must have a connection.
+[2022.06.11-03.31.31:760][993]LogBlueprint: Error: [AssetLog] D:\Unreal\Projects\INSECTE\INSECTE\INSECTE\Content\SideScrollerBP\CheckpointsEditor\WBPE_Checkpoints.uasset: [Compiler] This blueprint (self) is not a PropertyViewBase, therefore ' Target ' must have a connection.
+[2022.06.11-03.31.31:763][993]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_1 is already used by REINST_WBPE_Checkpoints_C_18 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_1, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.31.31:805][993]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2022.06.11-03.31.47:821][909]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.31.47:823][909]LogBlueprint: Warning: [AssetLog] D:\Unreal\Projects\INSECTE\INSECTE\INSECTE\Content\SideScrollerBP\CheckpointsEditor\WBPE_Checkpoints.uasset: [Compiler] On Check State Changed (CheckBox_0)  does not have a valid matching component!
+[2022.06.11-03.31.47:865][909]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2022.06.11-03.31.58:369][506]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.31.58:412][506]LogUObjectHash: Compacting FUObjectHashTables data took   2.80ms
+[2022.06.11-03.32.54:822][816]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.32.54:865][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2022.06.11-03.33.07:542][554]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.33.07:587][554]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.06.11-03.33.32:822][992]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.33.32:869][992]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.06.11-03.34.19:557][779]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.34.19:604][779]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.06.11-03.34.43:014][167]LogEditorTransaction: Undo Duplicate selection
+[2022.06.11-03.34.43:609][186]LogEditorTransaction: Undo Duplicate selection
+[2022.06.11-03.35.12:709][885]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.35.12:759][885]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.06.11-03.35.13:378][919]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:393][920]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:409][921]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:425][922]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:442][923]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:460][924]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:476][925]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:495][926]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:510][927]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:537][928]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:553][929]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:559][930]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:576][931]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:594][932]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:610][933]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:666][934]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:672][935]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:689][936]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:706][937]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:723][938]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:740][939]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:756][940]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:773][941]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:788][942]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:805][943]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:822][944]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:839][945]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:855][946]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:872][947]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:890][948]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:905][949]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:923][950]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:938][951]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:956][952]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:973][953]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.13:989][954]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:006][955]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:022][956]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:039][957]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:055][958]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:072][959]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:089][960]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:105][961]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:123][962]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:139][963]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:155][964]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:172][965]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:189][966]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:206][967]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:222][968]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:239][969]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:256][970]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:273][971]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:289][972]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:306][973]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:323][974]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:339][975]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:356][976]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:372][977]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:389][978]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:407][979]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:423][980]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:439][981]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:456][982]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:489][983]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:503][984]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:511][985]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:528][986]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:554][987]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:562][988]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:578][989]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:594][990]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:611][991]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:628][992]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:646][993]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:661][994]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:678][995]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:695][996]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:712][997]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:728][998]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:762][999]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:768][  0]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:788][  1]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:802][  2]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:818][  3]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:835][  4]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:852][  5]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:868][  6]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:884][  7]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:904][  8]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:918][  9]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:934][ 10]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:952][ 11]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:968][ 12]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.14:985][ 13]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:001][ 14]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:017][ 15]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:034][ 16]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:051][ 17]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:068][ 18]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:085][ 19]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:101][ 20]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:118][ 21]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:137][ 22]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:151][ 23]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:168][ 24]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:185][ 25]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:201][ 26]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:218][ 27]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:235][ 28]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:251][ 29]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:268][ 30]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:285][ 31]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:301][ 32]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:318][ 33]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:334][ 34]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:351][ 35]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:368][ 36]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:384][ 37]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:401][ 38]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:418][ 39]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:434][ 40]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:451][ 41]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:468][ 42]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:485][ 43]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:501][ 44]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:517][ 45]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:534][ 46]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:551][ 47]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:567][ 48]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:584][ 49]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:600][ 50]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:618][ 51]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:635][ 52]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:652][ 53]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:668][ 54]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:687][ 55]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:701][ 56]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:718][ 57]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:734][ 58]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:751][ 59]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:768][ 60]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:785][ 61]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:801][ 62]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:818][ 63]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:834][ 64]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:854][ 65]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:868][ 66]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:885][ 67]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:901][ 68]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:918][ 69]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:934][ 70]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:951][ 71]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:968][ 72]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.15:985][ 73]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:001][ 74]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:019][ 75]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:034][ 76]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:051][ 77]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:067][ 78]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:084][ 79]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:100][ 80]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:117][ 81]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:135][ 82]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:151][ 83]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:167][ 84]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:184][ 85]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:200][ 86]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:217][ 87]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:234][ 88]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:251][ 89]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:268][ 90]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:284][ 91]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:300][ 92]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:320][ 93]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:335][ 94]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:352][ 95]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:368][ 96]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:386][ 97]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:402][ 98]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:418][ 99]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:435][100]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:451][101]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:468][102]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:485][103]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:502][104]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:518][105]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:535][106]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:551][107]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:568][108]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:585][109]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:602][110]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:617][111]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:634][112]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:651][113]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:668][114]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:686][115]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:701][116]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:718][117]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:735][118]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:751][119]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:805][120]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:813][121]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:828][122]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:845][123]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:863][124]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:878][125]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:895][126]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:913][127]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:929][128]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:945][129]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:963][130]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:980][131]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.16:996][132]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:013][133]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:029][134]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:045][135]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:063][136]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:078][137]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:096][138]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:113][139]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:129][140]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:145][141]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:162][142]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:179][143]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:196][144]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:213][145]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:229][146]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:247][147]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:287][148]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:296][149]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:312][150]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:330][151]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:346][152]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:370][153]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:380][154]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:396][155]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:413][156]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:429][157]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:445][158]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:462][159]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:479][160]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:495][161]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:513][162]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:529][163]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:546][164]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:562][165]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:579][166]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:595][167]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:612][168]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:629][169]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:646][170]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:663][171]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:679][172]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:698][173]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:721][174]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:730][175]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:745][176]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:763][177]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:781][178]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:804][179]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:813][180]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:829][181]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:846][182]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:862][183]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:878][184]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:895][185]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:911][186]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:929][187]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:945][188]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:963][189]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:980][190]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.17:996][191]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:014][192]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:029][193]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:046][194]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:063][195]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:079][196]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:096][197]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:112][198]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:128][199]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:145][200]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:162][201]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:178][202]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:195][203]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:212][204]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:229][205]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:246][206]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.18:262][207]LogBlueprintUserMessages: [WBPE_Checkpoints_C_9] X=503.353 Y=958.000
+[2022.06.11-03.35.37:124][328]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.35.37:171][328]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2022.06.11-03.35.37:535][347]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:540][348]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:556][349]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:573][350]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:589][351]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:608][352]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:624][353]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:640][354]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:657][355]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:674][356]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:691][357]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:707][358]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:724][359]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:741][360]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:758][361]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:775][362]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:798][363]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:816][364]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:832][365]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:848][366]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:866][367]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:882][368]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:899][369]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:916][370]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:936][371]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:949][372]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:966][373]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:982][374]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.37:999][375]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.38:015][376]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.38:031][377]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.38:048][378]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.38:064][379]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.38:081][380]LogBlueprintUserMessages: [WBPE_Checkpoints_C_10] X=503.353 Y=958.000
+[2022.06.11-03.35.42:975][661]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.35.43:022][661]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.06.11-03.36.38:910][988]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.36.38:956][988]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.06.11-03.37.48:646][ 56]LogEditorTransaction: Undo Drag and Drop Widget
+[2022.06.11-03.38.02:926][858]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.38.02:972][858]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.06.11-03.40.05:139][129]LogSlate: Took 0.000200 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.06.11-03.40.17:045][837]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.40.17:092][837]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2022.06.11-03.40.33:030][780]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.40.33:032][780]LogClass: Warning: Type mismatch in TriggersMediator of WBPE_Checkpoints_C - Previous (BoolProperty) Current(SoftObjectProperty) for package:  FObjectReader
+[2022.06.11-03.40.33:075][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2022.06.11-03.40.43:613][403]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.40.43:657][403]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.06.11-03.41.17:646][420]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.41.17:694][420]LogUObjectHash: Compacting FUObjectHashTables data took   3.07ms
+[2022.06.11-03.41.36:383][528]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.41.36:427][528]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2022.06.11-03.42.40:049][288]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.42.40:094][288]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2022.06.11-03.43.04:982][763]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.43.05:027][763]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2022.06.11-03.44.35:218][145]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.44.35:274][145]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2022.06.11-03.45.16:652][579]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.45.16:697][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2022.06.11-03.45.58:436][848]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.45.58:484][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.06.11-03.46.47:030][375]LogUObjectHash: Compacting FUObjectHashTables data took   2.84ms
+[2022.06.11-03.46.49:376][375]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Main_Gameplay_Auto1B467078F4AE54A0F53A718BAB081A7CD.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/Maps/Main_Gameplay_Auto1.umap'
+[2022.06.11-03.46.49:385][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/Main_Gameplay' took 2.380
+[2022.06.11-03.46.49:385][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 2.380
+[2022.06.11-03.46.49:386][375]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints] ([2] browsable assets)...
+[2022.06.11-03.46.49:386][375]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints]
+[2022.06.11-03.46.49:513][375]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_Checkpoints_Auto15869090E46C33588627F76AB2AD0312B.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints_Auto1.uasset'
+[2022.06.11-03.46.49:516][375]LogFileHelpers: Auto-saving content packages took 0.131
+[2022.06.11-03.47.46:338][560]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.47.46:384][560]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2022.06.11-03.49.05:161][250]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.49.05:166][250]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_24 is already used by REINST_WBPE_Checkpoints_C_119 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_12, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.49.05:209][250]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.06.11-03.49.43:870][527]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_Checkpoints596C59104EF8D0042E83A393AEE7C43E.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.uasset'
+[2022.06.11-03.49.43:887][527]AssetCheck: New page: Asset Save: WBPE_Checkpoints
+[2022.06.11-03.49.43:887][527]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints
+[2022.06.11-03.54.51:148][825]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.54.51:154][825]LogProperty: Warning: Serialized BlueprintGeneratedClass /Game/SideScrollerBP/Triggers/BP_Triggers_Mediator_Levels.BP_Triggers_Mediator_Levels_C for a property of BlueprintGeneratedClass /Game/SideScrollerBP/Save/BP_Saver_GameplayMap.BP_Saver_GameplayMap_C. Reference will be nullptred.
+    Property = ObjectProperty /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints_C:SaverGameplayMap
+    Item = BP_Triggers_Mediator_Levels_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:PersistentLevel.BP_Triggers_Mediator_Levels
+[2022.06.11-03.54.51:156][825]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_25 is already used by REINST_WBPE_Checkpoints_C_126 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_13, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.54.51:202][825]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2022.06.11-03.55.31:946][243]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.55.31:956][243]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_26 is already used by REINST_WBPE_Checkpoints_C_128 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_14, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.55.32:001][243]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2022.06.11-03.57.39:922][859]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.57.39:934][859]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_27 is already used by REINST_WBPE_Checkpoints_C_130 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.57.39:979][859]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2022.06.11-03.57.55:580][781]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.57.55:593][781]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_28 is already used by REINST_WBPE_Checkpoints_C_132 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.57.55:636][781]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2022.06.11-03.58.16:032][986]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-03.58.16:044][986]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_29 is already used by REINST_WBPE_Checkpoints_C_134 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-03.58.16:087][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.01ms
+[2022.06.11-03.58.32:926][977]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_Checkpoints737C36654FF6DFCFBF8C21B883307F8F.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.uasset'
+[2022.06.11-03.58.32:941][977]AssetCheck: New page: Asset Save: WBPE_Checkpoints
+[2022.06.11-03.58.32:941][977]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints
+[2022.06.11-03.58.59:340][535]LogUObjectHash: Compacting FUObjectHashTables data took   3.32ms
+[2022.06.11-03.58.59:935][535]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Main_Gameplay_Auto27BAC1927403FD64F7E9328A2E2A1C1A2.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/Maps/Main_Gameplay_Auto2.umap'
+[2022.06.11-03.58.59:942][535]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/Main_Gameplay' took 0.632
+[2022.06.11-03.58.59:942][535]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.632
+[2022.06.11-04.00.48:634][989]LogSlate: Took 0.012771 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2022.06.11-04.03.54:779][949]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.03.54:794][949]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_30 is already used by REINST_WBPE_Checkpoints_C_161 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_15, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.03.54:851][949]LogUObjectHash: Compacting FUObjectHashTables data took   4.15ms
+[2022.06.11-04.05.18:788][856]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.06.11-04.05.35:508][113]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.06.11-04.05.39:779][363]LogContentBrowser: Attempting asset rename: WBPE_Checkpoints -> WBPE_Checkpoints
+[2022.06.11-04.06.11:149][471]LogSlate: Window 'Create New Blueprint' being destroyed
+[2022.06.11-04.06.11:174][471]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement.WBPE_CheckpointsListElement
+[2022.06.11-04.06.14:891][658]BlueprintLog: New page: Compile WBPE_CheckpointsListElement
+[2022.06.11-04.06.14:925][658]LogUObjectHash: Compacting FUObjectHashTables data took   3.98ms
+[2022.06.11-04.06.16:731][763]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.06.16:749][763]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_31 is already used by REINST_WBPE_Checkpoints_C_168 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_16, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.06.16:802][763]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.06.11-04.06.26:025][305]BlueprintLog: New page: Compile WBPE_CheckpointsListElement
+[2022.06.11-04.06.26:077][305]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2022.06.11-04.06.40:697][173]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.06.40:720][173]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_32 is already used by REINST_WBPE_Checkpoints_C_173 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.06.40:776][173]LogUObjectHash: Compacting FUObjectHashTables data took   4.00ms
+[2022.06.11-04.06.47:783][579]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2022.06.11-04.06.48:900][579]LogSlate: Window 'Save Content' being destroyed
+[2022.06.11-04.06.48:955][579]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2022.06.11-04.06.49:590][579]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Main_Gameplay2DC1910A46F50AEF50BA5A82A5BE58F0.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/Main_Gameplay.umap'
+[2022.06.11-04.06.49:617][579]LogFileHelpers: Saving map 'Main_Gameplay' took 0.690
+[2022.06.11-04.06.49:777][579]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_Checkpoints924651194370FE35BF5521B033754B37.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.uasset'
+[2022.06.11-04.06.49:840][579]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_CheckpointsListElement96E517DF446C2F09FF3727953F64ED46.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement.uasset'
+[2022.06.11-04.06.49:867][579]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.11-04.06.49:867][579]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints
+[2022.06.11-04.06.49:867][579]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay
+[2022.06.11-04.06.49:867][579]LogContentValidation: Display: Validating WidgetBlueprint /Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement.WBPE_CheckpointsListElement
+[2022.06.11-04.07.30:477][989]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.07.30:497][989]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_33 is already used by REINST_WBPE_Checkpoints_C_175 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_17, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.07.30:560][989]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2022.06.11-04.11.40:447][839]LogEditorTransaction: Undo Move Widget
+[2022.06.11-04.11.41:514][888]LogEditorTransaction: Undo Move Widget
+[2022.06.11-04.11.51:627][488]BlueprintLog: New page: Compile WBPE_CheckpointsListElement
+[2022.06.11-04.11.51:684][488]LogUObjectHash: Compacting FUObjectHashTables data took   3.89ms
+[2022.06.11-04.11.59:446][942]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2022.06.11-04.12.00:049][942]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Main_Gameplay0D2EC17A4A840AD6B5EFCC838D7EBE36.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/Main_Gameplay.umap'
+[2022.06.11-04.12.00:073][942]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Maps/Main_Gameplay_BuiltData" FILE="../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/Main_Gameplay_BuiltData.uasset" SILENT=true
+[2022.06.11-04.12.00:420][942]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Main_Gameplay_BuiltData58FE9E1048E896B32DCEE1B3F69ED5CE.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/Maps/Main_Gameplay_BuiltData.uasset'
+[2022.06.11-04.12.00:437][942]AssetCheck: New page: Asset Save: multiple assets
+[2022.06.11-04.12.00:437][942]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/SideScrollerBP/Maps/Main_Gameplay_BuiltData.Main_Gameplay_BuiltData
+[2022.06.11-04.12.00:437][942]LogContentValidation: Display: Validating World /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay
+[2022.06.11-04.21.59:674][192]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2022.06.11-04.21.59:676][192]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/Main_Gameplay' took 0.036
+[2022.06.11-04.21.59:677][192]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints] ([2] browsable assets)...
+[2022.06.11-04.21.59:677][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints]
+[2022.06.11-04.21.59:830][192]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_Checkpoints_Auto337A669974FF10984953D1DB92028F969.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints_Auto3.uasset'
+[2022.06.11-04.21.59:833][192]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement] ([1] browsable assets)...
+[2022.06.11-04.21.59:833][192]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement]
+[2022.06.11-04.21.59:891][192]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_CheckpointsListElement_Auto2419222D4E4C4EC793CB63AAF1FDC0C3.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement_Auto3.uasset'
+[2022.06.11-04.21.59:893][192]LogFileHelpers: Auto-saving content packages took 0.217
+[2022.06.11-04.27.35:929][402]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.27.35:933][402]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_34 is already used by REINST_WBPE_Checkpoints_C_199 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.27.35:988][402]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2022.06.11-04.28.00:113][801]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.28.00:116][801]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_35 is already used by REINST_WBPE_Checkpoints_C_201 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.28.00:168][801]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.06.11-04.28.32:665][714]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.28.32:669][714]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_36 is already used by REINST_WBPE_Checkpoints_C_203 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.28.32:720][714]LogUObjectHash: Compacting FUObjectHashTables data took   3.83ms
+[2022.06.11-04.31.39:083][718]LogEditorTransaction: Undo Move Node
+[2022.06.11-04.32.37:602][150]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2022.06.11-04.32.38:231][150]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Main_Gameplay_Auto484A4EB04423F5D7440EE9EB6D6FA9F3B.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/Maps/Main_Gameplay_Auto4.umap'
+[2022.06.11-04.32.38:238][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/SideScrollerBP/Maps/Main_Gameplay' took 0.665
+[2022.06.11-04.32.38:238][150]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.665
+[2022.06.11-04.32.38:238][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints] ([2] browsable assets)...
+[2022.06.11-04.32.38:238][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints]
+[2022.06.11-04.32.38:433][150]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_Checkpoints_Auto47CE491E14CCB74EB6B8FEBA35139696A.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints_Auto4.uasset'
+[2022.06.11-04.32.38:435][150]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement] ([1] browsable assets)...
+[2022.06.11-04.32.38:435][150]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement]
+[2022.06.11-04.32.38:495][150]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_CheckpointsListElement_AutoD5C6DAEB48DD2AF254C411A5F69D8183.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/Autosaves/Game/SideScrollerBP/CheckpointsEditor/WBPE_CheckpointsListElement_Auto4.uasset'
+[2022.06.11-04.32.38:497][150]LogFileHelpers: Auto-saving content packages took 0.260
+[2022.06.11-04.34.22:756][389]LogEditorTransaction: Undo Move Node
+[2022.06.11-04.35.06:241][958]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.35.06:248][958]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_37 is already used by REINST_WBPE_Checkpoints_C_213 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.35.06:302][958]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2022.06.11-04.35.15:139][467]BlueprintLog: New page: Compile WBPE_Checkpoints
+[2022.06.11-04.35.15:147][467]LogUObjectGlobals: Warning: Guid referenced by WBPE_Checkpoints_C /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:WBPE_Checkpoints_C_38 is already used by REINST_WBPE_Checkpoints_C_215 /Game/SideScrollerBP/Maps/Main_Gameplay.Main_Gameplay:REINST_WBPE_Checkpoints_C_0, which should never happen in the editor but could happen at runtime with duplicate level loading or PIE
+[2022.06.11-04.35.15:198][467]LogUObjectHash: Compacting FUObjectHashTables data took   4.24ms
+[2022.06.11-04.35.15:734][483]LogSavePackage: Moving '../../../../Projects/INSECTE/INSECTE/INSECTE/Saved/WBPE_Checkpoints82F10CE84F3AD2D9606CF3A0807D2142.tmp' to '../../../../Projects/INSECTE/INSECTE/INSECTE/Content/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.uasset'
+[2022.06.11-04.35.15:765][483]AssetCheck: New page: Asset Save: WBPE_Checkpoints
+[2022.06.11-04.35.15:765][483]LogContentValidation: Display: Validating EditorUtilityWidgetBlueprint /Game/SideScrollerBP/CheckpointsEditor/WBPE_Checkpoints.WBPE_Checkpoints
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: WidgetMapToItem length (1) does not match ItemsWithGeneratedWidgets length (2). This is often because the same item is in the list more than once in ListViewT<ItemType> [ListViewBase.h(229)]. Diagnostics follow.
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: 
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: ItemToWidgetMap :
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: 0xadf99400 [1M_Cube] -> 0x84b34f10 @ ObjectTableRowT [ListViewBase.h(602)]
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: 
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: WidgetMapToItem:
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: 0x84b35330 -> 0xadf99400 [1M_Cube]
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: 
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: ItemsWithGeneratedWidgets:
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: [0] 0xadf99400 [1M_Cube]
+[2022.06.11-04.35.20:864][786]LogSlate: Warning: [1] 0xadf99400 [1M_Cube]
+[2022.06.11-04.35.20:866][786]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.06.11-04.35.20:867][786]LogWindows: Windows GetLastError: Операция успешно завершена. (0)
